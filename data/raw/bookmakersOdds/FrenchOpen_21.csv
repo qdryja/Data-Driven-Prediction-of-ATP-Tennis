@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Fognini F.,Barrere G.,29,122,1933,644,6,4,6,1,6,4,,,,,3,0,Completed,1.25,4,1.27,4.26,1.32,4.26,1.27,3.8
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Carreno Busta P.,Gombos N.,12,81,3085,912,6,3,6,4,6,3,,,,,3,0,Completed,1.12,6,1.13,7.01,1.19,7.01,1.13,6.09
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Couacaud E.,Gerasimov E.,177,79,400,937,7,6,6,4,6,3,,,,,3,0,Completed,1.66,2.2,1.71,2.27,1.71,2.52,1.61,2.33
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Laaksonen H.,Hanfmann Y.,150,96,498,822,6,1,6,3,4,6,6,2,,,3,1,Completed,2.1,1.72,2.41,1.64,2.45,1.94,2.21,1.68
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Bautista Agut R.,Vilella Martinez M.,11,183,3215,393,6,4,6,4,6,2,,,,,3,0,Completed,1.12,6,1.11,8.04,1.14,10.75,1.09,7.67
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Pella G.,Galan D.E.,61,107,1114,764,6,3,7,6,7,5,,,,,3,0,Completed,3.2,1.36,3.4,1.37,3.4,1.44,3.15,1.36
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Kecmanovic M.,Evans D.,48,27,1384,2195,1,6,6,3,6,3,6,4,,,3,1,Completed,2.5,1.53,2.37,1.66,2.88,1.66,2.46,1.55
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Andujar P.,Thiem D.,68,4,1020,8445,4,6,5,7,6,3,6,4,6,4,3,2,Completed,7,1.1,9.48,1.09,10,1.11,7.73,1.09
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Khachanov K.,Vesely J.,25,71,2280,976,6,1,6,2,6,3,,,,,3,0,Completed,1.3,3.5,1.24,4.6,1.32,4.6,1.23,4.17
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Fucsovics M.,Simon G.,44,69,1456,995,6,4,6,1,7,6,,,,,3,0,Completed,1.1,7,1.13,7.35,1.13,7.5,1.11,6.79
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Nishikori K.,Giannessi A.,49,159,1318,458,6,4,6,7,6,3,4,6,6,4,3,2,Completed,1.12,6,1.15,6.34,1.16,8,1.12,6.29
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Garin C.,Londero J.I.,23,102,2350,793,3,6,6,4,7,6,6,2,,,3,1,Completed,1.06,10,1.08,10.16,1.09,13,1.06,9.57
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Mcdonald M.,Ruusuvuori E.,119,75,675,951,4,6,6,3,7,6,6,3,,,3,1,Completed,1.3,3.5,1.31,3.83,1.41,4,1.3,3.59
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Giron M.,Dimitrov G.,84,17,900,2521,2,6,4,6,7,5,3,0,,,1,2,Retired,4,1.25,5.07,1.21,5.07,1.26,4.52,1.21
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Djere L.,Moutet C.,55,73,1168,968,6,3,6,7,7,6,7,5,,,3,1,Completed,1.8,2,1.81,2.11,1.87,2.25,1.77,2.05
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Zverev A.,Otte O.,6,152,6990,485,3,6,3,6,6,2,6,2,6,0,3,2,Completed,1.04,13,1.05,14.47,1.05,18,1.03,12.73
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Davidovich Fokina A.,Kukushkin M.,46,106,1408,772,6,4,6,4,6,3,,,,,3,0,Completed,1.03,15,1.04,14.9,1.05,17.75,1.03,12.7
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Safiullin R.,Taberner C.,182,137,393,555,7,6,1,6,6,0,6,2,,,3,1,Completed,3.75,1.28,3.88,1.3,4.9,1.32,3.79,1.27
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Van De Zandschulp B.,Hurkacz H.,154,20,478,2498,6,7,6,7,6,2,6,2,6,4,3,2,Completed,2.37,1.57,2.65,1.55,2.66,1.61,2.48,1.55
+30,Paris,French Open,30/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Tsitsipas S.,Chardy J.,5,60,7500,1123,7,6,6,3,6,1,,,,,3,0,Completed,1.02,17,1.02,21.59,1.04,25,1.01,16.8
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Sinner J.,Herbert P.H.,19,85,2500,897,6,1,4,6,6,7,7,5,6,4,3,2,Completed,1.11,6.5,1.14,6.77,1.18,7,1.12,6.3
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Johnson S.,Tiafoe F.,88,74,878,963,6,7,3,6,6,4,6,2,6,1,3,2,Completed,5,1.16,5.34,1.19,5.75,1.2,5.04,1.17
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Krajinovic F.,Marterer M.,41,215,1524,322,6,4,6,1,7,6,,,,,3,0,Completed,1.5,2.62,1.48,2.86,1.52,2.86,1.48,2.66
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Monteiro T.,Cerundolo F.,80,117,936,688,6,3,6,4,6,3,,,,,3,0,Completed,1.66,2.2,1.63,2.44,1.73,2.47,1.62,2.31
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Mager G.,Gojowczyk P.,87,134,879,566,6,2,3,6,6,4,7,5,,,3,1,Completed,2.62,1.5,,,1.48,8,1.28,5.34
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Isner J.,Querrey S.,34,67,1730,1023,7,6,6,3,6,4,,,,,3,0,Completed,1.28,3.75,1.26,4.39,1.29,4.39,1.25,3.95
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Delbonis F.,Albot R.,51,89,1225,870,6,1,2,6,6,0,6,1,,,3,1,Completed,1.14,5.5,1.2,5.32,1.2,5.8,1.17,5.13
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Ruud C.,Paire B.,16,40,2690,1544,5,7,6,2,6,1,7,6,,,3,1,Completed,1.05,11,1.06,12.51,1.06,15,1.05,11.37
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Norrie C.,Fratangelo B.,45,198,1430,354,7,5,7,6,6,2,,,,,3,0,Completed,1.2,4.5,1.24,4.56,1.25,5.1,1.21,4.43
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Paul T.,O Connell C.,52,129,1225,611,6,2,6,4,4,6,4,6,10,8,3,2,Completed,1.3,3.5,1.24,4.55,1.33,4.55,1.25,3.96
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Medvedev D.,Bublik A.,2,37,9793,1613,6,3,6,3,7,5,,,,,3,0,Completed,1.4,3,1.43,3.05,1.46,3.06,1.41,2.92
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Munar J.,Thompson J.,72,64,974,1042,6,7,6,1,7,6,6,4,,,3,1,Completed,1.08,8,1.14,6.73,1.14,8.5,1.1,7.24
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Opelka R.,Martin A.,35,108,1726,760,6,3,6,2,6,4,,,,,3,0,Completed,1.4,3,1.45,3,1.51,3,1.42,2.87
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Basilashvili N.,Lajovic D.,31,39,1785,1585,6,4,6,3,0,6,6,2,,,3,1,Completed,1.66,2.2,1.7,2.28,1.74,2.29,1.68,2.2
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Martinez P.,Korda S.,103,50,793,1289,6,4,6,2,6,2,,,,,3,0,Completed,3.4,1.33,3.42,1.37,3.84,1.38,3.33,1.33
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Alcaraz C.,Zapata Miralles B.,97,128,815,631,6,3,2,6,6,1,7,6,,,3,1,Completed,1.28,3.75,1.32,3.74,1.32,3.95,1.29,3.63
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Majchrzak K.,Cazaux A.,126,452,636,87,6,4,2,6,6,4,6,4,,,3,1,Completed,1.53,2.5,1.64,2.42,1.64,2.61,1.57,2.41
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Federer R.,Istomin D.,8,204,5605,343,6,2,6,4,6,3,,,,,3,0,Completed,1.12,6,1.12,7.76,1.13,7.76,1.11,6.64
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Harris L.,Sonego L.,54,28,1198,2132,7,5,6,4,6,4,,,,,3,0,Completed,5.5,1.14,6.75,1.14,6.75,1.17,5.8,1.14
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Cilic M.,Rinderknech A.,47,118,1388,677,7,6,6,1,6,2,,,,,3,0,Completed,1.72,2.1,1.77,2.18,1.8,2.2,1.73,2.12
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Fritz T.,Sousa J.,33,114,1760,714,6,4,6,2,6,4,,,,,3,0,Completed,1.12,6,1.18,5.59,1.18,6.75,1.14,5.89
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Koepfer D.,Bourgue M.,59,197,1134,359,6,3,6,3,6,4,,,,,3,0,Completed,1.25,4,1.26,4.29,1.28,4.4,1.24,4.08
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Musetti L.,Goffin D.,76,13,950,2875,6,0,7,5,7,6,,,,,3,0,Completed,1.66,2.2,1.75,2.2,1.76,2.3,1.71,2.16
+30,Paris,French Open,31/05/2021,Grand Slam,Outdoor,Clay,1st Round,5,Nishioka Y.,Tsonga J.W.,57,77,1142,947,6,4,6,2,3,6,7,6,,,3,1,Completed,1.22,4.33,1.26,4.36,1.26,4.8,1.22,4.3
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Cecchinato M.,Uchiyama Y.,83,115,903,704,3,6,6,1,6,2,6,4,,,3,1,Completed,1.04,13,1.06,12.44,1.06,21,1.05,11.27
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Ymer M.,Carballes Baena R.,105,95,776,831,6,4,0,6,4,6,6,2,6,2,3,2,Completed,2.2,1.66,2.24,1.73,2.29,1.76,2.15,1.71
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,De Minaur A.,Travaglia S.,22,78,2350,939,6,2,6,4,7,6,,,,,3,0,Completed,1.61,2.3,1.65,2.4,1.65,2.52,1.6,2.34
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Berankis R.,Humbert U.,93,32,839,1780,6,4,6,4,2,6,6,4,,,3,1,Completed,3.75,1.28,3.28,1.39,3.76,1.39,3.36,1.33
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Karatsev A.,Brooksby J.,26,163,2245,437,6,3,6,4,6,4,,,,,3,0,Completed,1.14,5.5,1.14,6.63,1.17,7,1.12,6.26
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Bedene A.,Mannarino A.,56,36,1166,1651,7,5,3,6,7,5,6,2,,,3,1,Completed,1.25,4,1.28,4.08,1.31,4.08,1.27,3.79
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Duckworth J.,Caruso S.,101,82,794,906,6,4,3,6,7,6,6,2,,,3,1,Completed,4,1.25,4.66,1.24,4.75,1.27,4.24,1.23
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Struff J.L.,Rublev A.,42,7,1500,6090,6,3,7,6,4,6,3,6,6,4,3,2,Completed,6.5,1.11,7.38,1.13,8.5,1.13,7.14,1.1
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Monfils G.,Ramos-Vinolas A.,15,38,2713,1595,1,6,7,6,6,4,6,4,,,3,1,Completed,2.3,1.61,2.22,1.74,2.59,1.77,2.21,1.67
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Seppi A.,Auger-Aliassime F.,98,21,811,2423,6,3,7,6,4,6,6,4,,,3,1,Completed,10,1.06,11.2,1.07,12.75,1.07,10.21,1.05
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Bagnis F.,Bonzi B.,104,116,778,693,7,5,6,3,6,4,,,,,3,0,Completed,1.72,2.1,1.83,2.09,1.87,2.19,1.78,2.04
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Kohlschreiber P.,Verdasco F.,132,99,572,795,7,6,6,2,2,6,6,4,,,3,1,Completed,1.72,2.1,1.74,2.22,1.78,2.28,1.7,2.16
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Nadal R.,Popyrin A.,3,63,9630,1052,6,3,6,2,7,6,,,,,3,0,Completed,1.01,23,1.01,29.38,1.02,34,1.01,21.96
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Coria F.,Lopez F.,94,62,838,1072,6,3,7,6,6,2,,,,,3,0,Completed,1.57,2.37,1.65,2.38,1.67,2.53,1.6,2.35
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Schwartzman D.,Lu Y.,10,680,3465,35,6,2,6,2,6,3,,,,,3,0,Completed,1.01,23,1.01,29.16,1.02,34,1.01,21.2
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Gasquet R.,Gaston H.,53,141,1213,531,6,1,6,4,6,2,,,,,3,0,Completed,1.72,2.1,1.75,2.2,1.82,2.29,1.72,2.14
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Berrettini M.,Daniel T.,9,113,3958,716,6,0,6,4,4,6,6,4,,,3,1,Completed,1.07,9,1.08,9.87,1.08,21,1.06,10.64
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Kwon S.W.,Anderson K.,91,100,854,795,7,5,6,4,2,6,7,6,,,3,1,Completed,2.75,1.44,2.95,1.46,3.2,1.46,2.91,1.41
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Cuevas P.,Pouille L.,92,86,846,892,6,3,6,1,6,3,,,,,3,0,Completed,1.4,3,1.47,2.93,1.53,3.06,1.43,2.85
+30,Paris,French Open,01/06/2021,Grand Slam,Outdoor,Clay,1st Round,5,Djokovic N.,Sandgren T.,1,66,11313,1033,6,2,6,4,6,2,,,,,3,0,Completed,29,0.967,1.01,31.38,1.02,35,1.01,23.01
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Delbonis F.,Andujar P.,51,68,1225,1020,4,6,6,1,3,6,6,3,6,2,3,2,Completed,1.66,2.2,1.77,2.18,1.82,2.3,1.73,2.13
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Djere L.,Kecmanovic M.,55,48,1168,1384,4,6,4,6,6,3,6,2,6,3,3,2,Completed,1.66,2.2,1.72,2.25,1.81,2.32,1.69,2.18
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Zverev A.,Safiullin R.,6,182,6990,393,7,6,6,3,7,6,,,,,3,0,Completed,1.03,15,1.03,18.81,1.07,21,1.03,13.58
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Ruud C.,Majchrzak K.,16,126,2690,636,6,3,6,2,6,4,,,,,3,0,Completed,1.06,10,1.04,14.89,1.07,15,1.04,11.8
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Laaksonen H.,Bautista Agut R.,150,11,498,3215,6,3,2,6,6,3,6,2,,,3,1,Completed,8,1.08,10.28,1.08,11,1.11,8.93,1.07
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Davidovich Fokina A.,Van De Zandschulp B.,46,154,1408,478,6,4,6,4,5,7,2,6,6,4,3,2,Completed,1.2,4.5,1.19,5.43,1.23,5.5,1.18,4.93
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Nishikori K.,Khachanov K.,49,25,1318,2280,4,6,6,2,2,6,6,4,6,4,3,2,Completed,1.9,1.9,1.99,1.91,2.22,2,1.95,1.87
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Fognini F.,Fucsovics M.,29,44,1933,1456,7,6,6,1,6,2,,,,,3,0,Completed,1.72,2.1,1.83,2.09,1.87,2.37,1.78,2.06
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Isner J.,Krajinovic F.,34,41,1730,1524,7,6,6,1,7,6,,,,,3,0,Completed,2,1.8,2.15,1.79,2.25,1.83,2.12,1.73
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Opelka R.,Munar J.,35,72,1726,974,6,3,6,2,3,6,7,5,,,3,1,Completed,1.8,2,1.81,2.12,1.87,2.41,1.77,2.08
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Giron M.,Pella G.,84,61,900,1114,7,6,6,1,6,7,6,4,,,3,1,Completed,2.75,1.44,2.76,1.51,2.98,1.52,2.66,1.48
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Tsitsipas S.,Martinez P.,5,103,7500,793,6,3,6,4,6,3,,,,,3,0,Completed,1.05,11,1.03,19.82,1.05,22.04,1.02,14.76
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Garin C.,Mcdonald M.,23,119,2350,675,4,6,4,6,7,6,6,3,8,6,3,2,Completed,1.28,3.75,1.28,4.08,1.3,4.45,1.25,3.94
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Carreno Busta P.,Couacaud E.,12,177,3085,400,2,6,6,3,6,4,6,4,,,3,1,Completed,1.04,13,1.04,15.91,1.06,16,1.04,12.11
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Johnson S.,Monteiro T.,88,80,878,936,6,3,6,7,7,6,3,6,6,3,3,2,Completed,5,1.16,4.73,1.23,6,1.23,4.85,1.18
+30,Paris,French Open,02/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Medvedev D.,Paul T.,2,52,9793,1225,3,6,6,1,6,4,6,3,,,3,1,Completed,1.28,3.75,1.35,3.53,1.38,3.84,1.31,3.46
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Kwon S.W.,Seppi A.,91,98,854,811,6,4,7,5,7,5,,,,,3,0,Completed,1.8,2,1.83,2.09,1.91,2.32,1.78,2.06
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Berrettini M.,Coria F.,9,94,3958,838,6,3,6,3,6,2,,,,,3,0,Completed,1.06,10,1.07,11.66,1.07,13.26,1.06,10.2
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Kohlschreiber P.,Karatsev A.,132,26,572,2245,6,3,7,6,4,6,6,1,,,3,1,Completed,8,1.08,6.52,1.15,9,1.15,7.05,1.1
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Schwartzman D.,Bedene A.,10,56,3465,1166,6,4,6,2,6,4,,,,,3,0,Completed,1.33,3.4,1.32,3.74,1.36,3.74,1.32,3.4
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Ymer M.,Monfils G.,105,15,776,2713,6,0,2,6,6,4,6,3,,,3,1,Completed,2.75,1.44,2.99,1.45,3.52,1.48,2.97,1.4
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Koepfer D.,Fritz T.,59,33,1134,1760,6,3,6,2,3,6,6,4,,,3,1,Completed,2.75,1.44,3,1.45,3.05,1.48,2.86,1.43
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Musetti L.,Nishioka Y.,76,57,950,1142,7,5,6,3,6,2,,,,,3,0,Completed,1.44,2.75,1.51,2.76,1.61,2.93,1.47,2.68
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Sinner J.,Mager G.,19,87,2500,879,6,1,7,5,3,6,6,3,,,3,1,Completed,1.12,6,1.16,6.17,1.16,8,1.14,5.8
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Norrie C.,Harris L.,45,54,1430,1198,4,6,6,3,6,3,6,2,,,3,1,Completed,1.4,3,1.43,3.06,1.5,3.17,1.43,2.84
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Berankis R.,Duckworth J.,93,101,839,794,7,5,2,6,7,6,6,0,,,3,1,Completed,1.44,2.75,1.47,2.9,1.5,3.18,1.45,2.76
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Djokovic N.,Cuevas P.,1,92,11313,846,6,3,6,2,6,4,,,,,3,0,Completed,1.02,19,1.01,26.31,1.03,34,1.01,18.38
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Cecchinato M.,De Minaur A.,83,22,903,2350,6,4,6,1,3,6,6,1,,,3,1,Completed,1.9,1.9,2,1.91,2.19,1.95,1.96,1.86
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Federer R.,Cilic M.,8,47,5605,1388,6,2,2,6,7,6,6,2,,,3,1,Completed,1.53,2.5,1.48,2.86,1.53,3.3,1.43,2.84
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Struff J.L.,Bagnis F.,42,104,1500,778,7,5,7,6,6,4,,,,,3,0,Completed,1.5,2.62,1.53,2.7,1.55,2.92,1.47,2.72
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Alcaraz C.,Basilashvili N.,97,31,815,1785,6,4,6,2,6,4,,,,,3,0,Completed,1.72,2.1,1.65,2.4,1.75,2.4,1.68,2.21
+30,Paris,French Open,03/06/2021,Grand Slam,Outdoor,Clay,2nd Round,5,Nadal R.,Gasquet R.,3,53,9630,1213,6,0,7,5,6,2,,,,,3,0,Completed,1.01,26,1.01,31.79,1.02,34,1.01,21.15
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Davidovich Fokina A.,Ruud C.,46,16,1408,2690,7,6,2,6,7,6,0,6,7,5,3,2,Completed,4,1.25,4.01,1.29,4.2,1.32,3.79,1.27
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Delbonis F.,Fognini F.,51,29,1225,1933,6,4,6,1,6,3,,,,,3,0,Completed,2.5,1.53,2.4,1.65,2.56,1.65,2.43,1.57
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Nishikori K.,Laaksonen H.,49,150,1318,498,7,5,,,,,,,,,1,0,Retired,1.36,3.2,1.34,3.58,1.39,3.7,1.32,3.39
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Zverev A.,Djere L.,6,55,6990,1168,6,2,7,5,6,2,,,,,3,0,Completed,1.16,5,1.17,5.85,1.21,6.44,1.16,5.4
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Garin C.,Giron M.,23,84,2350,900,6,1,5,7,6,2,6,2,,,3,1,Completed,1.3,3.5,1.29,4.02,1.32,4.2,1.28,3.74
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Carreno Busta P.,Johnson S.,12,88,3085,878,6,4,6,4,6,2,,,,,3,0,Completed,1.11,6.5,1.12,7.5,1.12,8,1.11,6.94
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Medvedev D.,Opelka R.,2,35,9793,1726,6,4,6,2,6,4,,,,,3,0,Completed,1.3,3.5,1.29,4.06,1.33,4.2,1.27,3.86
+30,Paris,French Open,04/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Tsitsipas S.,Isner J.,5,34,7500,1730,5,7,6,3,7,6,6,1,,,3,1,Completed,1.14,5.5,1.13,7.18,1.16,7.18,1.13,6.13
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Musetti L.,Cecchinato M.,76,83,950,903,3,6,6,4,6,3,3,6,6,3,3,2,Completed,1.61,2.3,1.71,2.27,1.71,2.47,1.65,2.25
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Schwartzman D.,Kohlschreiber P.,10,132,3465,572,6,4,6,2,6,1,,,,,3,0,Completed,1.16,5,1.17,6.01,1.23,6.01,1.17,5.11
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Struff J.L.,Alcaraz C.,42,97,1500,815,6,4,7,6,6,2,,,,,3,0,Completed,2.5,1.53,2.48,1.61,2.6,1.64,2.42,1.57
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Sinner J.,Ymer M.,19,105,2500,776,6,1,7,5,6,3,,,,,3,0,Completed,1.12,6,1.14,6.67,1.17,6.85,1.13,6.16
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Djokovic N.,Berankis R.,1,93,11313,839,6,1,6,4,6,1,,,,,3,0,Completed,29,0.967,1.01,32.24,1.01,34,1.01,21.85
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Nadal R.,Norrie C.,3,45,9630,1430,6,3,6,3,6,3,,,,,3,0,Completed,1.02,19,1.02,22.35,1.03,22.35,1.02,15.87
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Berrettini M.,Kwon S.W.,9,91,3958,854,7,6,6,3,6,4,,,,,3,0,Completed,1.07,9,1.07,10.78,1.09,11,1.07,9.06
+30,Paris,French Open,05/06/2021,Grand Slam,Outdoor,Clay,3rd Round,5,Federer R.,Koepfer D.,8,59,5605,1134,7,6,6,7,7,6,7,5,,,3,1,Completed,1.3,3.5,1.32,3.71,1.36,4,1.31,3.52
+30,Paris,French Open,06/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Tsitsipas S.,Carreno Busta P.,5,12,7500,3085,6,3,6,2,7,5,,,,,3,0,Completed,1.14,5.5,1.16,6.22,1.17,6.5,1.14,5.79
+30,Paris,French Open,06/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Medvedev D.,Garin C.,2,23,9793,2350,6,2,6,1,7,5,,,,,3,0,Completed,1.36,3.2,1.36,3.44,1.4,3.44,1.36,3.18
+30,Paris,French Open,06/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Davidovich Fokina A.,Delbonis F.,46,51,1408,1225,6,4,6,4,4,6,6,4,,,3,1,Completed,1.8,2,1.75,2.2,1.86,2.21,1.74,2.11
+30,Paris,French Open,06/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Zverev A.,Nishikori K.,6,49,6990,1318,6,4,6,1,6,1,,,,,3,0,Completed,1.2,4.5,1.23,4.77,1.24,5.1,1.19,4.76
+30,Paris,French Open,07/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Berrettini M.,Federer R.,9,8,3958,5605,,,,,,,,,,,,,Walkover,,,,,,,,
+30,Paris,French Open,07/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Schwartzman D.,Struff J.L.,10,42,3465,1500,7,6,6,4,7,5,,,,,3,0,Completed,1.44,2.75,1.46,2.93,1.52,2.97,1.45,2.77
+30,Paris,French Open,07/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Djokovic N.,Musetti L.,1,76,11313,950,6,7,6,7,6,1,6,0,4,0,2,2,Retired,1.05,11,1.04,17,1.05,19,1.03,13.59
+30,Paris,French Open,07/06/2021,Grand Slam,Outdoor,Clay,4th Round,5,Nadal R.,Sinner J.,3,19,9630,2500,7,5,6,3,6,0,,,,,3,0,Completed,1.1,7,1.09,9.52,1.11,10.25,1.08,8.19
+30,Paris,French Open,08/06/2021,Grand Slam,Outdoor,Clay,Quarterfinals,5,Zverev A.,Davidovich Fokina A.,6,46,6990,1408,6,4,6,1,6,1,,,,,3,0,Completed,1.12,6,1.14,6.9,1.16,7.25,1.12,6.37
+30,Paris,French Open,08/06/2021,Grand Slam,Outdoor,Clay,Quarterfinals,5,Tsitsipas S.,Medvedev D.,5,2,7500,9793,6,3,7,6,7,5,,,,,3,0,Completed,1.44,2.75,1.4,3.22,1.54,3.22,1.41,2.94
+30,Paris,French Open,09/06/2021,Grand Slam,Outdoor,Clay,Quarterfinals,5,Nadal R.,Schwartzman D.,3,10,9630,3465,6,3,4,6,6,4,6,0,,,3,1,Completed,1.06,10,1.06,12.13,1.08,16.5,1.05,10.82
+30,Paris,French Open,09/06/2021,Grand Slam,Outdoor,Clay,Quarterfinals,5,Djokovic N.,Berrettini M.,1,9,11313,3958,6,3,6,2,6,7,7,5,,,3,1,Completed,1.16,5,1.17,5.87,1.2,6,1.17,5.2
+30,Paris,French Open,11/06/2021,Grand Slam,Outdoor,Clay,Semifinals,5,Tsitsipas S.,Zverev A.,5,6,7500,6990,6,3,6,3,4,6,4,6,6,3,3,2,Completed,1.44,2.75,1.45,3,1.49,3.06,1.43,2.88
+30,Paris,French Open,11/06/2021,Grand Slam,Outdoor,Clay,Semifinals,5,Djokovic N.,Nadal R.,1,3,11313,9630,3,6,6,3,7,6,6,2,,,3,1,Completed,3,1.4,2.8,1.5,3.16,1.5,2.95,1.41
+30,Paris,French Open,13/06/2021,Grand Slam,Outdoor,Clay,The Final,5,Djokovic N.,Tsitsipas S.,1,5,11313,7500,6,7,2,6,6,3,6,2,6,4,3,2,Completed,1.4,3,1.45,2.97,1.45,3.5,1.38,3.11

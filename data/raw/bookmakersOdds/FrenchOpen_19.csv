@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Cilic M.,Fabbiano T.,13,96,2710,592,6,3,7,5,6,1,,,,,3,0,Completed,1.08,8,1.08,10.62,1.11,10.62,1.08,8.01
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Popyrin A.,Humbert U.,109,61,520,827,3,6,6,3,7,6,6,3,,,3,1,Completed,2,1.8,2.12,1.81,2.18,1.85,2.04,1.78
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Ruud C.,Gulbis E.,63,79,810,687,6,2,7,6,6,0,,,,,3,0,Completed,1.28,3.75,1.28,4.15,1.31,4.15,1.27,3.81
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Berrettini M.,Andujar P.,31,93,1320,602,6,7,6,4,6,4,6,2,,,3,1,Completed,1.2,4.5,1.19,5.42,1.22,5.42,1.18,4.81
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Dimitrov G.,Tipsarevic J.,46,303,997,115,6,3,6,0,3,6,6,7,6,4,3,2,Completed,1.16,5,1.2,5.21,1.2,5.5,1.18,5
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Tsitsipas S.,Marterer M.,6,116,4080,493,6,2,6,2,7,6,,,,,3,0,Completed,1.03,15,1.03,17.6,1.04,21,1.03,14.56
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Otte O.,Jaziri M.,144,92,391,602,6,3,6,1,4,6,6,0,,,3,1,Completed,1.8,2,1.79,2.15,1.82,2.15,1.77,2.05
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Nishikori K.,Halys Q.,7,151,3860,376,6,2,6,3,6,4,,,,,3,0,Completed,1.14,5.5,1.15,6.48,1.18,6.48,1.15,5.57
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Mahut N.,Cecchinato M.,252,19,182,1840,2,6,6,7,6,4,6,2,6,4,3,2,Completed,8,1.08,8.18,1.11,9.3,1.13,7.62,1.09
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Federer R.,Sonego L.,3,74,5950,732,6,2,6,4,6,4,,,,,3,0,Completed,1.11,6.5,1.11,8.01,1.15,8.01,1.11,6.69
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Dellien H.,Gunneswaran P.,86,88,651,629,6,1,6,3,6,1,,,,,3,0,Completed,1.2,4.5,1.24,4.62,1.24,4.85,1.21,4.45
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Schwartzman D.,Fucsovics M.,20,50,1755,965,6,3,3,6,7,6,2,6,6,2,3,2,Completed,1.28,3.75,1.38,3.36,1.38,3.76,1.32,3.41
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Djere L.,Ramos-Vinolas A.,32,87,1314,640,6,3,6,2,7,6,,,,,3,0,Completed,1.72,2.1,1.77,2.18,1.78,2.18,1.74,2.11
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Kohlschreiber P.,Haase R.,54,67,895,781,6,4,6,4,6,7,6,1,,,3,1,Completed,1.22,4.33,1.25,4.42,1.26,4.42,1.24,4.1
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Mayer L.,Vesely J.,68,105,770,546,7,6,6,3,6,0,,,,,3,0,Completed,1.66,2.2,1.66,2.37,1.7,2.47,1.63,2.29
+32,Paris,French Open,26/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Goffin D.,Berankis R.,29,73,1325,734,6,0,6,2,6,2,,,,,3,0,Completed,1.08,8,1.07,10.68,1.1,10.68,1.07,8.58
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Londero J.I.,Basilashvili N.,78,16,695,1970,6,4,6,1,6,3,,,,,3,0,Completed,2.5,1.53,2.6,1.56,2.78,1.6,2.58,1.51
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Kecmanovic M.,Kudla D.,85,81,656,675,6,0,6,7,5,7,6,3,6,4,3,2,Completed,1.5,2.62,1.45,2.97,1.52,2.97,1.47,2.71
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Carreno Busta P.,Sousa J.,57,70,860,750,6,3,6,1,6,2,,,,,3,0,Completed,1.8,2,1.8,2.13,1.91,2.17,1.83,1.98
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,De Minaur A.,Klahn B.,25,89,1410,618,6,1,6,4,6,4,,,,,3,0,Completed,1.2,4.5,1.17,5.85,1.22,5.85,1.17,5.05
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Herbert P.H.,Medvedev D.,43,14,1053,2625,4,6,4,6,6,3,6,2,7,5,3,2,Completed,3.4,1.33,3.56,1.34,3.56,1.36,3.35,1.33
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Krajinovic F.,Tiafoe F.,60,34,838,1230,6,2,4,6,6,3,3,6,6,0,3,2,Completed,1.44,2.75,1.42,3.13,1.5,3.14,1.43,2.82
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Moutet C.,Vatutin A.,110,212,515,234,6,4,7,6,6,4,,,,,3,0,Completed,1.44,2.75,1.52,2.74,1.57,2.88,1.5,2.61
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Maden Y.,Coppejans K.,114,178,504,286,7,6,7,5,6,3,,,,,3,0,Completed,1.44,2.75,1.46,2.94,1.5,2.94,1.45,2.76
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Garin C.,Opelka R.,37,59,1201,853,7,6,7,5,7,6,,,,,3,0,Completed,1.4,3,1.38,3.33,1.42,3.35,1.38,3.06
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Gasquet R.,Zverev M.,39,102,1125,570,6,3,6,4,6,3,,,,,3,0,Completed,1.11,6.5,1.15,6.55,1.16,7.5,1.12,6.3
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Carballes Baena R.,Muller A.,76,304,707,111,6,4,6,4,6,2,,,,,3,0,Completed,1.2,4.5,1.18,5.68,1.22,5.68,1.18,4.96
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Nadal R.,Hanfmann Y.,2,180,7945,284,6,2,6,1,6,3,,,,,3,0,Completed,1.005,29,1.005,35.08,1.02,40,1.01,24.63
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Coric B.,Bedene A.,15,95,2525,595,6,1,6,7,6,4,6,4,,,3,1,Completed,1.2,4.5,1.18,5.61,1.22,5.65,1.18,4.98
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Pella G.,Andreozzi G.,23,101,1460,572,7,6,6,4,1,6,6,1,,,3,1,Completed,1.2,4.5,1.26,4.34,1.26,5,1.22,4.34
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Laaksonen H.,Martinez P.,104,134,548,418,6,1,6,0,7,6,,,,,3,0,Completed,1.9,1.9,1.95,1.95,1.98,2.03,1.89,1.93
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Wawrinka S.,Kovalik J.,28,132,1365,420,6,1,6,7,6,2,6,3,,,3,1,Completed,1.11,6.5,1.1,8.72,1.14,8.72,1.1,7.14
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Simon G.,Stakhovsky S.,33,111,1235,512,6,3,6,3,6,4,,,,,3,0,Completed,1.12,6,1.14,6.87,1.15,6.87,1.14,5.91
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Tsonga J.W.,Gojowczyk P.,82,121,670,465,7,6,6,1,4,6,6,3,,,3,1,Completed,1.22,4.33,1.22,4.89,1.23,5,1.2,4.6
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Caruso S.,Munar J.,147,53,388,900,7,5,4,6,6,3,6,3,,,3,1,Completed,3.75,1.28,4.21,1.27,4.21,1.31,3.86,1.26
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Djokovic N.,Hurkacz H.,1,44,12355,1040,6,4,6,2,6,2,,,,,3,0,Completed,1.03,15,1.04,16.35,1.05,17,1.03,13.12
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Harris L.,Rosol L.,90,149,617,385,6,1,4,6,2,6,6,1,6,2,3,2,Completed,1.57,2.37,1.63,2.45,1.64,2.49,1.6,2.35
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Paire B.,Copil M.,38,83,1168,667,6,4,6,7,6,0,6,1,,,3,1,Completed,1.14,5.5,1.21,5.12,1.21,5.6,1.18,4.97
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Albot R.,Sandgren T.,40,100,1101,574,7,6,7,6,3,6,6,1,,,3,1,Completed,1.33,3.4,1.33,3.66,1.36,3.79,1.33,3.36
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Bublik A.,Molleker R.,91,173,616,292,7,5,6,7,6,1,7,6,,,3,1,Completed,3.2,1.36,3.28,1.39,3.5,1.4,3.18,1.35
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Cuevas P.,Janvier M.,47,190,983,269,6,4,6,4,6,2,,,,,3,0,Completed,1.16,5,1.17,5.86,1.18,5.86,1.17,5.19
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Struff J.L.,Shapovalov D.,45,24,1035,1425,7,6,6,3,6,4,,,,,3,0,Completed,1.57,2.37,1.53,2.71,1.58,2.71,1.52,2.54
+32,Paris,French Open,27/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Thiem D.,Paul T.,4,131,4685,421,6,4,4,6,7,6,6,2,,,3,1,Completed,1.02,19,1.02,21.16,1.03,26.5,1.02,16.85
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Fognini F.,Seppi A.,12,71,2785,750,6,3,6,0,3,6,6,3,,,3,1,Completed,1.16,5,1.16,6.06,1.18,6.25,1.15,5.52
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Fritz T.,Tomic B.,42,84,1055,665,6,1,6,4,6,1,,,,,3,0,Completed,1.14,5.5,1.14,6.97,1.16,7.3,1.14,5.95
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Delbonis F.,Garcia-Lopez G.,75,136,731,416,6,1,3,6,6,3,6,2,,,3,1,Completed,1.3,3.5,1.34,3.63,1.34,3.7,1.31,3.48
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Del Potro J.M.,Jarry N.,9,58,3235,855,3,6,6,2,6,1,6,4,,,3,1,Completed,1.3,3.5,1.28,4.15,1.32,4.25,1.27,3.86
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Zverev A.,Millman J.,5,56,4360,875,7,6,6,3,2,6,6,7,6,3,3,2,Completed,1.11,6.5,1.13,7.01,1.15,7.3,1.12,6.38
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Nishioka Y.,Mcdonald M.,72,66,741,796,6,7,6,0,4,6,6,2,6,3,3,2,Completed,1.33,3.4,1.32,3.72,1.42,3.72,1.33,3.33
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Benchetrit E.,Norrie C.,273,49,151,975,6,3,6,0,6,2,,,,,3,0,Completed,2.3,1.61,2.24,1.73,2.35,1.73,2.25,1.65
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Ymer M.,Rola B.,148,183,386,278,6,0,6,3,7,6,,,,,3,0,Completed,1.61,2.3,1.69,2.3,1.7,2.35,1.65,2.24
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Lajovic D.,Monteiro T.,35,112,1226,509,6,3,6,4,6,4,,,,,3,0,Completed,1.44,2.75,1.55,2.64,1.55,2.8,1.48,2.66
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Edmund K.,Chardy J.,30,41,1325,1065,7,6,5,7,6,4,4,6,7,5,3,2,Completed,1.72,2.1,1.78,2.17,1.8,2.17,1.76,2.08
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Karlovic I.,Lopez F.,94,108,599,530,7,6,7,5,6,7,7,5,,,3,1,Completed,2.75,1.44,2.66,1.54,2.79,1.61,2.64,1.49
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Bautista Agut R.,Johnson S.,21,65,1690,805,6,3,6,4,6,2,,,,,3,0,Completed,1.22,4.33,1.19,5.38,1.23,5.38,1.19,4.68
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Thompson J.,Davidovich Fokina A.,69,133,757,418,6,3,6,2,7,6,,,,,3,0,Completed,2.75,1.44,2.76,1.51,2.88,1.51,2.72,1.46
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Klizan M.,Kukushkin M.,55,51,883,955,3,6,5,7,6,4,6,2,6,3,3,2,Completed,1.57,2.37,1.6,2.5,1.6,2.63,1.55,2.48
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Khachanov K.,Stebe C.M.,11,N/A,2800,N/A,6,1,6,1,6,4,,,,,3,0,Completed,1.04,13,1.05,13.87,1.06,15.25,1.04,12.38
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Pouille L.,Bolelli S.,26,187,1385,272,6,3,6,4,7,5,,,,,3,0,Completed,1.4,3,1.45,3,1.45,3.05,1.41,2.91
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Verdasco F.,Evans D.,27,80,1370,678,6,3,6,7,6,3,6,2,,,3,1,Completed,1.22,4.33,1.22,4.9,1.25,4.9,1.22,4.36
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Barrere G.,Ebden M.,127,64,438,806,6,3,5,7,7,5,6,1,,,3,1,Completed,1.25,4,1.27,4.24,1.36,4.33,1.25,3.99
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Hoang A.,Dzumhur D.,146,52,388,913,6,4,0,6,7,6,6,3,,,3,1,Completed,3.4,1.33,3.64,1.33,3.64,1.35,3.44,1.31
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Mannarino A.,Travaglia S.,48,119,976,483,6,7,6,3,3,6,6,2,6,2,3,2,Completed,2.5,1.53,2.93,1.47,2.93,1.55,2.62,1.5
+32,Paris,French Open,28/05/2019,Grand Slam,Outdoor,Clay,1st Round,5,Monfils G.,Daniel T.,17,103,1965,569,6,0,6,4,6,1,,,,,3,0,Completed,1.12,6,1.12,7.68,1.15,7.68,1.12,6.47
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Tsitsipas S.,Dellien H.,6,86,4080,651,4,6,6,0,6,3,7,5,,,3,1,Completed,1.1,7,1.08,10.03,1.11,10.2,1.08,8.41
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Moutet C.,Pella G.,110,23,515,1460,6,3,6,1,2,6,7,5,,,3,1,Completed,3.75,1.28,4.34,1.26,4.5,1.29,3.94,1.25
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Nadal R.,Maden Y.,2,114,7945,504,6,1,6,2,6,4,,,,,3,0,Completed,1.002,41,1.01,31.85,1.01,67,1.01,28.49
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Goffin D.,Kecmanovic M.,29,85,1325,656,6,2,6,4,6,3,,,,,3,0,Completed,1.12,6,1.12,7.45,1.14,8.8,1.12,6.55
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Nishikori K.,Tsonga J.W.,7,82,3860,670,4,6,6,4,6,4,6,4,,,3,1,Completed,1.33,3.4,1.39,3.27,1.4,3.6,1.35,3.23
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Londero J.I.,Gasquet R.,78,39,695,1125,6,2,3,6,6,3,6,4,,,3,1,Completed,2,1.8,1.99,1.91,2.03,1.95,1.96,1.85
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Djere L.,Popyrin A.,32,109,1314,520,6,4,7,6,6,4,,,,,3,0,Completed,1.22,4.33,1.27,4.22,1.27,4.4,1.24,4.12
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Krajinovic F.,Carballes Baena R.,60,76,838,707,6,4,6,4,6,7,3,6,8,6,3,2,Completed,1.4,3,1.45,2.98,1.47,3,1.42,2.86
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Mahut N.,Kohlschreiber P.,252,54,182,895,6,3,6,3,6,3,,,,,3,0,Completed,7,1.1,7.53,1.12,7.95,1.13,6.88,1.11
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Ruud C.,Berrettini M.,63,31,810,1320,6,4,7,5,6,3,,,,,3,0,Completed,2.5,1.53,2.68,1.53,2.75,1.55,2.58,1.51
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Dimitrov G.,Cilic M.,46,13,997,2710,6,7,6,4,4,6,7,6,6,3,3,2,Completed,2.5,1.53,2.55,1.58,2.7,1.58,2.51,1.53
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Wawrinka S.,Garin C.,28,37,1365,1201,6,1,6,4,6,0,,,,,3,0,Completed,1.53,2.5,1.54,2.67,1.59,2.67,1.54,2.5
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Federer R.,Otte O.,3,144,5950,391,6,4,6,3,6,4,,,,,3,0,Completed,1.02,19,1.01,26.81,1.03,26.81,1.02,17.43
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Paire B.,Herbert P.H.,38,43,1168,1053,6,2,6,2,5,7,6,7,11,9,3,2,Completed,1.44,2.75,1.48,2.86,1.48,3.02,1.44,2.82
+32,Paris,French Open,29/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Carreno Busta P.,De Minaur A.,57,25,860,1410,6,3,6,1,6,1,,,,,3,0,Completed,1.4,3,1.48,2.88,1.48,3.25,1.41,2.94
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Cuevas P.,Edmund K.,47,30,983,1325,7,6,6,3,2,1,,,,,2,0,Retired,1.61,2.3,1.6,2.5,1.74,2.5,1.65,2.26
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Thiem D.,Bublik A.,4,91,4685,616,6,3,6,7,6,3,7,5,,,3,1,Completed,1.02,19,1.01,27.83,1.03,27.83,1.01,18.07
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Caruso S.,Simon G.,147,33,388,1235,6,1,6,2,6,4,,,,,3,0,Completed,3.5,1.3,3.35,1.38,3.54,1.41,3.3,1.34
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Mayer L.,Schwartzman D.,68,20,770,1755,4,6,6,3,6,4,7,5,,,3,1,Completed,3.5,1.3,3.69,1.33,3.69,1.34,3.46,1.31
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Zverev A.,Ymer M.,5,148,4360,386,6,1,6,3,7,6,,,,,3,0,Completed,1.14,5.5,1.13,7.01,1.15,7.4,1.12,6.25
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Djokovic N.,Laaksonen H.,1,104,12355,548,6,1,6,4,6,3,,,,,3,0,Completed,1.005,29,1.005,36.33,1.02,39,1.01,24.18
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Hoang A.,Verdasco F.,146,27,388,1370,6,4,3,6,7,6,7,5,,,3,1,Completed,6,1.12,6.41,1.15,7,1.15,6,1.13
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Lajovic D.,Benchetrit E.,35,273,1226,151,6,3,6,3,6,4,,,,,3,0,Completed,1.3,3.5,1.33,3.65,1.4,3.8,1.31,3.49
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Struff J.L.,Albot R.,45,40,1035,1101,7,6,7,6,6,7,6,2,,,3,1,Completed,1.36,3.2,1.42,3.11,1.45,3.38,1.38,3.05
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Thompson J.,Karlovic I.,69,94,757,599,6,3,6,4,6,7,6,3,,,3,1,Completed,1.53,2.5,1.49,2.84,1.57,2.84,1.49,2.63
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Del Potro J.M.,Nishioka Y.,9,72,3235,741,5,7,6,4,6,2,6,7,6,2,3,2,Completed,1.08,8,1.09,9.52,1.1,11.25,1.08,8.44
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Monfils G.,Mannarino A.,17,48,1965,976,6,3,6,4,6,4,,,,,3,0,Completed,1.1,7,1.1,8.43,1.14,8.55,1.1,7.34
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Coric B.,Harris L.,15,90,2525,617,6,2,6,3,7,6,,,,,3,0,Completed,1.08,8,1.08,10.46,1.09,10.75,1.07,8.82
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Bautista Agut R.,Fritz T.,21,42,1690,1055,6,2,6,3,6,2,,,,,3,0,Completed,1.44,2.75,1.49,2.84,1.49,2.95,1.45,2.78
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Khachanov K.,Barrere G.,11,127,2800,438,6,3,7,6,0,6,7,5,,,3,1,Completed,1.1,7,1.14,6.87,1.14,8.1,1.11,6.69
+32,Paris,French Open,30/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Fognini F.,Delbonis F.,12,75,2785,731,6,4,3,6,6,3,6,3,,,3,1,Completed,1.44,2.75,1.48,2.87,1.48,2.92,1.45,2.76
+32,Paris,French Open,31/05/2019,Grand Slam,Outdoor,Clay,2nd Round,5,Klizan M.,Pouille L.,55,26,883,1385,7,6,2,6,6,3,3,6,9,7,3,2,Completed,3,1.4,3.1,1.43,3.1,1.5,2.87,1.43
+32,Paris,French Open,31/05/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Nishikori K.,Djere L.,7,32,3860,1314,6,4,6,7,6,3,4,6,8,6,3,2,Completed,1.3,3.5,1.32,3.79,1.35,3.82,1.3,3.54
+32,Paris,French Open,31/05/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Paire B.,Carreno Busta P.,38,57,1168,860,6,2,4,6,7,6,,,,,2,1,Retired,2.3,1.61,2.27,1.71,2.51,1.71,2.3,1.63
+32,Paris,French Open,31/05/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Federer R.,Ruud C.,3,63,5950,810,6,3,6,1,7,6,,,,,3,0,Completed,1.11,6.5,1.14,6.87,1.15,7.45,1.12,6.4
+32,Paris,French Open,31/05/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Mayer L.,Mahut N.,68,252,770,182,3,6,7,6,6,4,7,6,,,3,1,Completed,1.25,4,1.25,4.48,1.3,4.5,1.24,4.09
+32,Paris,French Open,31/05/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Londero J.I.,Moutet C.,78,110,695,515,2,6,6,3,6,4,5,7,6,4,3,2,Completed,1.57,2.37,1.64,2.42,1.64,2.55,1.58,2.42
+32,Paris,French Open,31/05/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Nadal R.,Goffin D.,2,29,7945,1325,6,1,6,3,4,6,6,3,,,3,1,Completed,1.03,15,1.05,14.01,1.05,21,1.03,13.15
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Fognini F.,Bautista Agut R.,12,21,2785,1690,7,6,6,4,4,6,6,1,,,3,1,Completed,1.66,2.2,1.71,2.27,1.74,2.27,1.68,2.2
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Zverev A.,Lajovic D.,5,35,4360,1226,6,4,6,2,4,6,1,6,6,2,3,2,Completed,1.3,3.5,1.33,3.67,1.36,3.82,1.31,3.53
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Tsitsipas S.,Krajinovic F.,6,60,4080,838,7,5,6,3,6,7,7,6,,,3,1,Completed,1.16,5,1.18,5.61,1.19,5.7,1.17,5.12
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Struff J.L.,Coric B.,45,15,1035,2525,4,6,6,1,4,6,7,6,11,9,3,2,Completed,3,1.4,2.96,1.46,3.38,1.46,3.01,1.4
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Wawrinka S.,Dimitrov G.,28,46,1365,997,7,6,7,6,7,6,,,,,3,0,Completed,1.33,3.4,1.4,3.2,1.4,3.5,1.35,3.21
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Djokovic N.,Caruso S.,1,147,12355,388,6,3,6,3,6,2,,,,,3,0,Completed,1.005,29,1.01,25.7,1.02,39,1.01,22.31
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Thiem D.,Cuevas P.,4,47,4685,983,6,3,4,6,6,2,7,5,,,3,1,Completed,1.2,4.5,1.27,4.27,1.27,4.56,1.23,4.25
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Monfils G.,Hoang A.,17,146,1965,388,6,3,6,2,6,3,,,,,3,0,Completed,1.08,8,1.09,9.44,1.11,9.5,1.09,7.82
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Del Potro J.M.,Thompson J.,9,69,3235,757,6,4,6,4,6,0,,,,,3,0,Completed,1.28,3.75,1.31,3.79,1.32,4.2,1.28,3.75
+32,Paris,French Open,01/06/2019,Grand Slam,Outdoor,Clay,3rd Round,5,Khachanov K.,Klizan M.,11,55,2800,883,6,1,6,4,6,3,,,,,3,0,Completed,1.3,3.5,1.31,3.81,1.32,3.85,1.3,3.6
+32,Paris,French Open,02/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Federer R.,Mayer L.,3,68,5950,770,6,2,6,3,6,3,,,,,3,0,Completed,1.08,8,1.1,9.05,1.12,9.3,1.09,7.83
+32,Paris,French Open,02/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Wawrinka S.,Tsitsipas S.,28,6,1365,4080,7,6,5,7,6,4,3,6,8,6,3,2,Completed,2.1,1.72,2.2,1.77,2.2,1.8,2.1,1.75
+32,Paris,French Open,02/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Nadal R.,Londero J.I.,2,78,7945,695,6,2,6,3,6,3,,,,,3,0,Completed,1.005,34,1.01,36.83,1.02,39,1.01,24.13
+32,Paris,French Open,03/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Nishikori K.,Paire B.,7,38,3860,1168,6,2,6,7,6,2,6,7,7,5,3,2,Completed,1.44,2.75,1.45,3.05,1.5,3.05,1.46,2.72
+32,Paris,French Open,03/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Djokovic N.,Struff J.L.,1,45,12355,1035,6,3,6,2,6,2,,,,,3,0,Completed,1.04,13,1.05,15.42,1.05,17.5,1.03,13.25
+32,Paris,French Open,03/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Thiem D.,Monfils G.,4,17,4685,1965,6,4,6,4,6,2,,,,,3,0,Completed,1.36,3.2,1.4,3.3,1.4,3.38,1.36,3.16
+32,Paris,French Open,03/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Zverev A.,Fognini F.,5,12,4360,2785,3,6,6,2,6,2,7,6,,,3,1,Completed,2.1,1.72,2.06,1.87,2.12,1.87,2.04,1.79
+32,Paris,French Open,03/06/2019,Grand Slam,Outdoor,Clay,4th Round,5,Khachanov K.,Del Potro J.M.,11,9,2800,3235,7,5,6,3,3,6,6,3,,,3,1,Completed,2.75,1.44,3.03,1.45,3.03,1.52,2.79,1.45
+32,Paris,French Open,04/06/2019,Grand Slam,Outdoor,Clay,Quarterfinals,5,Federer R.,Wawrinka S.,3,28,5950,1365,7,6,4,6,7,6,6,4,,,3,1,Completed,1.36,3.2,1.42,3.19,1.48,3.32,1.38,3.08
+32,Paris,French Open,04/06/2019,Grand Slam,Outdoor,Clay,Quarterfinals,5,Nadal R.,Nishikori K.,2,7,7945,3860,6,1,6,1,6,3,,,,,3,0,Completed,1.02,19,1.04,18.38,1.04,25,1.03,15.7
+32,Paris,French Open,06/06/2019,Grand Slam,Outdoor,Clay,Quarterfinals,5,Djokovic N.,Zverev A.,1,5,12355,4360,7,5,6,2,6,2,,,,,3,0,Completed,1.1,7,1.13,7.31,1.15,7.45,1.12,6.6
+32,Paris,French Open,06/06/2019,Grand Slam,Outdoor,Clay,Quarterfinals,5,Thiem D.,Khachanov K.,4,11,4685,2800,6,2,6,4,6,2,,,,,3,0,Completed,1.28,3.75,1.31,3.93,1.45,4,1.29,3.7
+32,Paris,French Open,07/06/2019,Grand Slam,Outdoor,Clay,Semifinals,5,Nadal R.,Federer R.,2,3,7945,5950,6,3,6,4,6,2,,,,,3,0,Completed,1.12,6,1.15,6.69,1.17,7,1.14,6.13
+32,Paris,French Open,08/06/2019,Grand Slam,Outdoor,Clay,Semifinals,5,Thiem D.,Djokovic N.,4,1,4685,12355,6,2,3,6,7,5,5,7,7,5,3,2,Completed,2.75,1.44,3.04,1.45,3.04,1.55,2.79,1.46
+32,Paris,French Open,09/06/2019,Grand Slam,Outdoor,Clay,The Final,5,Nadal R.,Thiem D.,2,4,7945,4685,6,3,5,7,6,1,6,1,,,3,1,Completed,1.2,4.75,1.22,5.08,1.3,5.08,1.21,4.66

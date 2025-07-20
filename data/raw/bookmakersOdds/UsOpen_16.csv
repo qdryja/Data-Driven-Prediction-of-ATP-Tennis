@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Darcis S.,Thompson J.,106,91,562,633,5,7,3,6,7,6,6,4,7,5,3,2,Completed,1.5,2.5,1.45,2.35,1.5,2.6,1.59,2.52,1.59,2.6,1.53,2.47
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Kuznetsov A.,Bellucci T.,47,65,988,760,6,4,3,6,6,2,7,6,,,3,1,Completed,1.57,2.25,1.55,2.1,1.67,2.2,1.61,2.47,1.67,2.47,1.6,2.31
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Cilic M.,Dutra Silva R.,9,427,3515,98,6,4,7,5,6,1,,,,,3,0,Completed,1.01,21,1,10,1.02,17,1.02,24.52,1.03,31,1.01,18.13
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Edmund K.,Gasquet R.,84,15,679,2230,6,2,6,2,6,3,,,,,3,0,Completed,4.33,1.2,3.9,1.18,4.33,1.22,4.85,1.22,4.85,1.23,4.34,1.21
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Pella G.,Fratangelo B.,51,115,898,540,6,3,6,4,6,4,,,,,3,0,Completed,2.25,1.57,2.2,1.52,2.2,1.67,2.41,1.64,2.45,1.67,2.32,1.6
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Escobedo E.,Lacko L.,201,99,277,606,6,4,4,6,4,6,6,3,,,2,2,Retired,1.66,2.1,1.72,1.88,1.8,2,1.78,2.16,1.85,2.3,1.72,2.1
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Stakhovsky S.,Elias G.,92,60,631,806,6,1,3,6,2,6,6,3,7,6,3,2,Completed,1.61,2.2,1.55,2.2,1.67,2.2,1.69,2.3,1.69,2.38,1.63,2.26
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Youzhny M.,Klizan M.,61,29,801,1405,6,2,6,1,6,1,,,,,3,0,Completed,2,1.72,1.95,1.68,2,1.8,1.99,1.92,2.05,1.92,1.97,1.83
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Ramos-Vinolas A.,Benneteau J.,33,248,1330,214,3,6,6,3,6,3,2,6,6,1,3,2,Completed,1.57,2.25,1.55,2.1,1.62,2.25,1.68,2.34,1.68,2.38,1.61,2.29
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Almagro N.,Fucsovics M.,48,155,987,366,6,1,6,4,7,6,,,,,3,0,Completed,1.44,2.62,1.45,2.4,1.5,2.62,1.56,2.59,1.73,2.65,1.52,2.52
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Seppi A.,Robert S.,87,52,675,856,6,2,3,6,6,4,6,3,,,3,1,Completed,1.5,2.5,1.4,2.5,1.5,2.62,1.54,2.66,1.54,2.66,1.5,2.56
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Monfils G.,Muller G.,12,37,2835,1175,6,4,6,2,7,6,,,,,3,0,Completed,1.22,4,1.2,3.5,1.25,4,1.19,5.42,1.26,5.42,1.22,4.26
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Isner J.,Tiafoe F.,21,125,1645,484,3,6,4,6,7,6,6,2,7,6,3,2,Completed,1.08,8,1.08,5.75,1.08,8,1.09,9.43,1.1,9.75,1.08,8.03
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Nadal R.,Istomin D.,5,107,4850,560,6,1,6,4,6,2,,,,,3,0,Completed,1.08,8,1.06,6,1.06,9,1.08,10.44,1.08,11.38,1.06,9.01
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Delbonis F.,Baker B.,43,312,1015,157,3,6,6,7,6,4,6,2,6,2,3,2,Completed,1.61,2.2,1.58,2.1,1.73,2.1,1.6,2.52,1.75,2.52,1.63,2.26
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Satral J.,Mcdonald M.,226,406,237,107,4,6,3,6,6,3,6,2,6,2,3,2,Completed,1.5,2.5,1.45,2.4,1.53,2.5,1.45,2.99,1.53,2.99,1.47,2.68
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Chiudinelli M.,Clezar G.,144,203,408,276,2,6,7,6,6,2,6,4,,,3,1,Completed,1.83,1.83,1.82,1.82,1.91,1.91,1.98,1.93,2,2,1.89,1.89
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Paire B.,Lajovic D.,34,59,1305,806,6,2,2,6,3,6,7,5,6,1,3,2,Completed,1.44,2.62,1.4,2.5,1.5,2.62,1.54,2.66,1.54,2.75,1.48,2.62
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Baghdatis M.,Bagnis F.,44,90,1015,660,6,4,6,2,1,1,,,,,2,0,Retired,1.07,9,1.05,6.5,1.06,9,1.08,9.9,1.09,10.5,1.06,8.95
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Pospisil V.,Kovalik J.,123,126,495,476,6,1,6,3,6,3,,,,,3,0,Completed,1.57,2.25,1.52,2.2,1.57,2.38,1.68,2.34,1.68,2.5,1.59,2.3
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Anderson K.,Nishioka Y.,35,85,1275,678,6,3,7,5,6,4,,,,,3,0,Completed,1.33,3.25,1.22,3.3,1.3,3.5,1.39,3.28,1.39,3.6,1.32,3.34
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Cuevas P.,Sela D.,20,80,1745,691,6,3,6,2,0,6,5,7,6,3,3,2,Completed,1.22,4,1.2,3.6,1.22,3.8,1.24,4.55,1.27,4.55,1.23,4.14
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Zverev M.,Herbert P.H.,127,114,468,540,6,4,7,6,4,6,6,0,,,3,1,Completed,1.8,1.9,1.82,1.82,1.8,2,1.86,2.05,1.91,2.05,1.83,1.95
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Pouille L.,Kukushkin M.,25,67,1481,759,3,6,6,2,6,4,6,2,,,3,1,Completed,1.2,4.33,1.18,3.9,1.2,4.5,1.19,5.42,1.23,5.5,1.19,4.7
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Tsonga J.W.,Andreozzi G.,11,133,2875,437,6,3,6,4,6,4,,,,,3,0,Completed,1.04,13,1.03,7,1.05,10,1.04,15.14,1.05,15.2,1.04,11.47
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Sock J.,Fritz T.,27,53,1450,829,7,6,7,5,3,6,1,6,6,4,3,2,Completed,1.3,3.4,1.25,3.3,1.3,3.5,1.33,3.69,1.33,3.69,1.3,3.47
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Harrison R.,Mannarino A.,120,54,509,826,6,4,7,6,6,3,,,,,3,0,Completed,1.83,1.83,1.82,1.82,1.91,1.91,2.16,1.78,2.16,2.2,1.95,1.84
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Duckworth J.,Haase R.,195,62,289,798,4,6,7,5,6,3,4,6,6,3,3,2,Completed,1.8,1.9,1.85,1.75,1.91,1.91,1.87,2.04,1.92,2.04,1.84,1.94
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Vesely J.,Myneni S.,49,143,928,410,7,6,4,6,2,6,6,2,7,5,3,2,Completed,1.36,3,1.3,3,1.3,3.5,1.39,3.28,1.4,3.5,1.36,3.12
+52,New York,US Open,29/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Bautista Agut R.,Garcia-Lopez G.,17,50,2040,900,7,5,6,1,6,7,7,6,,,3,1,Completed,1.28,3.5,1.25,3.3,1.25,4,1.3,3.9,1.33,4,1.29,3.56
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Raonic M.,Brown D.,6,86,4805,678,7,5,6,3,6,4,,,,,3,0,Completed,1.03,15,1.02,8,1.04,11,1.04,15.92,1.05,15.92,1.03,12.33
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Djokovic N.,Janowicz J.,1,247,14840,216,6,3,5,7,6,2,6,1,,,3,1,Completed,1.01,26,1,10,1.02,23,1.02,24.52,1.02,50,1.01,20.3
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,Cervantes I.,24,75,1555,713,6,2,6,4,7,6,,,,,3,0,Completed,1.07,9,1.05,6.25,1.08,8,1.06,12.52,1.08,13.75,1.05,10.09
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Evans D.,Ram R.,64,104,775,577,6,2,4,6,7,5,6,1,,,3,1,Completed,1.44,2.62,1.45,2.4,1.48,2.7,1.57,2.57,1.59,2.7,1.52,2.53
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Khachanov K.,Fabbiano T.,95,111,619,545,6,3,6,3,4,6,6,3,,,3,1,Completed,1.36,3,1.35,2.75,1.44,2.75,1.4,3.24,1.45,3.24,1.39,2.96
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Nishikori K.,Becker B.,7,96,4165,610,6,1,6,1,3,6,6,3,,,3,1,Completed,1.01,21,,10,1.02,15,1.02,22.73,1.03,22.73,1.02,16.3
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Brands D.,28,153,1415,370,3,6,6,1,6,4,7,6,,,3,1,Completed,1.2,4.33,1.14,4.5,1.17,5,1.17,6.02,1.2,6.02,1.16,5.17
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Ivashka I.,39,182,1110,308,6,0,7,5,6,2,,,,,3,0,Completed,1.18,4.5,1.14,4.3,1.22,4.33,1.21,5.12,1.22,5.42,1.19,4.67
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Chardy J.,Mmoh M.,55,384,825,118,6,4,6,4,6,1,,,,,3,0,Completed,1.08,8,1.07,6,1.08,8,1.11,8.37,1.11,8.75,1.09,7.5
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Troicki V.,Albot R.,32,97,1340,608,5,7,3,6,6,4,6,4,7,6,3,2,Completed,1.22,4,1.15,4.25,1.22,4.33,1.27,4.22,1.27,4.56,1.22,4.25
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Tipsarevic J.,Querrey S.,250,30,208,1400,7,6,6,7,6,3,6,3,,,3,1,Completed,4.33,1.2,3.9,1.18,4.33,1.22,4.18,1.27,4.6,1.27,4.16,1.23
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Mahut N.,Kohlschreiber P.,42,26,1038,1475,6,3,7,5,1,0,,,,,2,0,Retired,2.1,1.66,2.1,1.58,2.2,1.67,2.09,1.83,2.2,1.83,2.06,1.75
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Verdasco F.,3,46,4980,1010,7,6,6,4,6,4,,,,,3,0,Completed,1.28,3.5,1.22,3.3,1.3,3.5,1.33,3.64,1.34,3.84,1.3,3.47
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Giannessi A.,Kudla D.,243,128,217,464,0,6,6,4,6,1,1,6,6,0,3,2,Completed,2.5,1.5,2.3,1.5,2.62,1.5,2.73,1.52,2.73,1.61,2.48,1.54
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Ferrer D.,Dolgopolov O.,13,57,2660,815,6,5,,,,,,,,,0,0,Retired,1.33,3.25,1.28,3,1.33,3.4,1.37,3.39,1.4,3.5,1.34,3.23
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Donaldson J.,Goffin D.,122,14,497,2565,4,6,7,5,6,4,6,0,,,3,1,Completed,5.5,1.14,4.75,1.13,5.5,1.14,6.87,1.14,7,1.17,5.7,1.14
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Fognini F.,Gabashvili T.,38,105,1155,571,6,7,3,6,7,6,7,5,6,4,3,2,Completed,1.33,3.25,1.33,2.85,1.33,3.4,1.35,3.52,1.36,3.52,1.33,3.31
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Mathieu P.H.,Harrison C.,70,694,741,35,6,0,6,2,6,1,,,,,3,0,Completed,1.33,3.25,1.3,3,1.3,3.3,1.4,3.22,1.42,3.3,1.36,3.12
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Sousa J.,Estrella Burgos V.,36,83,1215,682,6,0,6,1,6,1,,,,,3,0,Completed,1.36,3,1.3,2.85,1.36,3.25,1.38,3.35,1.4,3.4,1.36,3.12
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Dzumhur D.,Tomic B.,72,19,720,1780,6,4,6,3,4,6,7,6,,,3,1,Completed,8,1.08,6.25,1.06,8,1.08,8.21,1.11,8.5,1.11,7.35,1.09
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Lopez F.,Coric B.,18,41,1840,1070,3,4,,,,,,,,,0,0,Retired,1.57,2.25,1.52,2.25,1.57,2.38,1.72,2.25,1.72,2.55,1.62,2.27
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Zeballos H.,Mayer F.,71,58,736,813,6,3,6,4,7,6,,,,,3,0,Completed,3.4,1.3,2.9,1.3,3.1,1.33,3.69,1.33,3.69,1.4,3.28,1.33
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Karlovic I.,Lu Y.H.,23,73,1570,720,4,6,7,6,6,7,7,6,7,5,3,2,Completed,1.44,2.62,1.38,2.65,1.44,2.75,1.47,2.9,1.5,3,1.45,2.74
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Del Potro J.M.,Schwartzman D.,142,69,410,746,6,4,6,4,7,6,,,,,3,0,Completed,1.04,11,1.05,6.25,1.06,9,1.06,13.02,1.08,13.75,1.06,9.26
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Young D.,Struff J.L.,56,78,817,694,6,3,7,5,4,6,7,5,,,3,1,Completed,1.36,3,1.35,2.7,1.4,3,1.4,3.22,1.4,3.26,1.37,3.04
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Johnson S.,Donskoy E.,22,79,1635,691,4,6,1,6,7,6,6,3,6,3,3,2,Completed,1.12,6,1.12,4.75,1.14,5.5,1.14,6.65,1.15,7,1.13,5.95
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Millman J.,10,66,3205,760,6,3,2,6,5,7,6,4,6,3,3,2,Completed,1.2,4.33,1.2,3.5,1.22,4.33,1.23,4.77,1.24,42586,1.2,4.37
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Granollers M.,Monaco J.,45,94,1011,620,7,6,7,6,6,4,,,,,3,0,Completed,1.61,2.2,1.58,2.1,1.62,2.25,1.75,2.2,1.75,2.3,1.66,2.2
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Simon G.,Stepanek R.,31,113,1385,541,6,3,6,1,6,4,,,,,3,0,Completed,1.66,2.1,1.58,2.1,1.73,2.1,1.75,2.2,1.83,2.2,1.72,2.11
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Lorenzi P.,Berlocq C.,40,76,1110,702,6,4,6,2,6,1,,,,,3,0,Completed,1.44,2.62,1.45,2.35,1.53,2.5,1.56,2.59,1.57,2.62,1.52,2.52
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Kyrgios N.,Bedene A.,16,77,2060,695,6,4,6,4,6,4,,,,,3,0,Completed,1.07,9,1.06,6,1.08,8,1.07,11.23,1.08,11.36,1.06,9.17
+52,New York,US Open,30/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Berankis R.,Jaziri M.,89,68,665,749,3,6,7,6,6,4,6,2,,,3,1,Completed,2.75,1.4,2.85,1.3,3.25,1.36,3.02,1.44,3.25,1.45,2.93,1.39
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Marchenko I.,Dodig I.,63,74,795,718,6,3,6,4,6,7,7,5,,,3,1,Completed,1.83,1.83,1.75,1.85,1.8,2,2.08,1.84,2.08,2.04,1.87,1.92
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,1st Round,5,Murray A.,Rosol L.,2,81,9305,690,6,3,6,2,6,2,,,,,3,0,Completed,1.01,26,1,10,1.02,21,1.02,22.73,1.02,31,1.01,19.22
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Edmund K.,Escobedo E.,84,201,679,277,7,5,6,4,6,4,,,,,3,0,Completed,1.22,4,1.22,3.3,1.25,4,1.25,4.46,1.27,4.46,1.24,4.03
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Anderson K.,Pospisil V.,35,123,1275,495,7,6,6,4,6,4,,,,,3,0,Completed,1.25,3.75,1.22,3.5,1.25,4,1.26,4.34,1.28,4.34,1.25,3.95
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Isner J.,Darcis S.,21,106,1645,562,6,3,6,4,6,7,6,3,,,3,1,Completed,1.1,7,1.11,4.9,1.1,7,1.15,6.52,1.15,7,1.11,6.35
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Tsonga J.W.,Duckworth J.,11,195,2875,289,6,4,3,6,6,3,6,4,,,3,1,Completed,1.06,10,1.03,7.25,1.06,9,1.07,11.51,1.08,12.25,1.06,9.56
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Baghdatis M.,Paire B.,44,34,1015,1305,6,2,6,4,3,6,6,4,,,3,1,Completed,1.57,2.25,1.52,2.2,1.57,2.38,1.64,2.41,1.65,2.6,1.58,2.36
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Harrison R.,Raonic M.,120,6,509,4805,6,7,7,5,7,5,6,1,,,3,1,Completed,9,1.07,6.5,1.05,9,1.06,9.87,1.08,10.5,1.1,8.61,1.07
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Djokovic N.,Vesely J.,1,49,14840,928,,,,,,,,,,,,,Walkover,1.06,10,1.03,7,1.05,10,1.07,10.98,1.07,11.75,1.05,9.61
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Youzhny M.,Pella G.,61,51,801,898,6,2,6,1,7,6,,,,,3,0,Completed,1.5,2.5,1.45,2.35,1.53,2.5,1.55,2.64,1.57,2.64,1.51,2.51
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Monfils G.,Satral J.,12,226,2835,237,7,5,6,4,6,3,,,,,3,0,Completed,1.01,21,1.01,10,1.02,15,1.02,22.99,1.03,23,1.02,16.27
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Almagro N.,Cuevas P.,48,20,987,1745,7,6,6,4,7,6,,,,,3,0,Completed,2.25,1.57,2.1,1.6,2.25,1.62,2.37,1.66,2.38,1.73,2.25,1.63
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Kuznetsov A.,Ramos-Vinolas A.,47,33,988,1330,7,5,6,4,7,6,,,,,3,0,Completed,1.61,2.2,1.55,2.1,1.62,2.25,1.68,2.33,1.69,2.33,1.64,2.24
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Sock J.,Zverev M.,27,127,1450,468,6,1,6,1,6,2,,,,,3,0,Completed,1.25,3.75,1.25,3.3,1.29,3.75,1.27,4.22,1.35,4.22,1.27,3.74
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Cilic M.,Stakhovsky S.,9,92,3515,631,6,1,6,2,6,3,,,,,3,0,Completed,1.03,13,1.04,6.75,1.05,10,1.04,14.94,1.06,14.94,1.04,11.25
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Pouille L.,Chiudinelli M.,25,144,1481,408,4,6,3,6,7,6,6,2,6,0,3,2,Completed,1.18,4.5,1.16,4.1,1.22,4.33,1.19,5.5,1.22,5.5,1.19,4.66
+52,New York,US Open,31/08/16,Grand Slam,Outdoor,Hard,2nd Round,5,Bautista Agut R.,Delbonis F.,17,43,2040,1015,5,7,6,2,6,3,6,2,,,3,1,Completed,1.12,6,1.12,4.8,1.14,5.5,1.17,5.91,1.17,6.14,1.14,5.57
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Nadal R.,Seppi A.,5,87,4850,675,6,0,7,5,6,1,,,,,3,0,Completed,1.05,11,1.04,6.75,1.06,9,1.07,10.71,1.08,11.5,1.06,9.41
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Mahut N.,Mathieu P.H.,42,70,1038,741,6,4,6,4,6,2,,,,,3,0,Completed,1.5,2.5,1.42,2.5,1.5,2.62,1.61,2.49,1.61,2.67,1.53,2.49
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Nishikori K.,Khachanov K.,7,95,4165,619,6,4,4,6,6,4,6,3,,,3,1,Completed,1.04,13,1.01,8,1.03,13,1.05,13.99,1.05,15.5,1.03,12.35
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Carreno Busta P.,Tipsarevic J.,39,250,1110,208,3,6,4,6,6,1,6,4,6,4,3,2,Completed,1.36,3,1.35,2.7,1.4,3,1.42,3.11,1.45,3.11,1.41,2.88
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Murray A.,Granollers M.,2,45,9305,1011,6,4,6,1,6,4,,,,,3,0,Completed,1.01,23,1,10,1.02,17,1.01,27.22,1.02,27.22,1.01,18.29
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Thiem D.,Berankis R.,10,89,3205,665,6,4,6,3,6,2,,,,,3,0,Completed,1.08,8,1.07,6,1.11,6.5,1.1,8.98,1.12,9.25,1.09,7.54
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Sousa J.,Lopez F.,36,18,1215,1840,6,2,6,4,1,6,7,5,,,3,1,Completed,5,1.16,4,1.17,5,1.17,5.48,1.19,5.48,1.22,4.95,1.16
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Lorenzi P.,Simon G.,40,31,1110,1385,3,6,6,2,6,2,6,7,7,6,3,2,Completed,4.33,1.2,4,1.17,4.5,1.2,5.12,1.21,5.12,1.25,4.5,1.2
+52,New York,US Open,01/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Donaldson J.,Troicki V.,122,32,497,1340,7,5,6,3,6,3,,,,,3,0,Completed,2,1.72,1.85,1.75,1.91,1.91,2.02,1.88,2.1,1.91,1.97,1.81
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Dimitrov G.,Chardy J.,24,55,1555,825,4,6,6,4,3,6,6,4,6,2,3,2,Completed,1.28,3.5,1.25,3.3,1.29,3.75,1.32,3.79,1.33,3.8,1.28,3.56
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Kyrgios N.,Zeballos H.,16,71,2060,736,7,5,6,4,6,4,,,,,3,0,Completed,1.11,6.5,1.09,5.4,1.09,8.5,1.13,7.21,1.13,8.5,1.1,6.79
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Wawrinka S.,Giannessi A.,3,243,4980,217,6,1,7,6,7,5,,,,,3,0,Completed,1.02,17,,10,1.02,15,1.03,17.79,1.04,19.5,1.02,14.9
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Evans D.,Zverev A.,64,28,775,1415,6,4,6,4,5,7,6,2,,,3,1,Completed,3.25,1.33,3.1,1.25,3.25,1.35,3.48,1.36,3.48,1.38,3.25,1.33
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Del Potro J.M.,Johnson S.,142,22,410,1635,7,6,6,3,6,2,,,,,3,0,Completed,1.33,3.25,1.28,3,1.33,3.4,1.3,3.93,1.37,3.93,1.31,3.41
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Marchenko I.,Dzumhur D.,63,72,795,720,6,2,6,4,6,3,,,,,3,0,Completed,2,1.72,1.88,1.75,2,1.8,2.14,1.79,2.14,1.85,2.02,1.78
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Ferrer D.,Fognini F.,13,38,2660,1155,6,0,4,6,5,7,6,1,6,4,3,2,Completed,1.4,2.75,1.4,2.5,1.4,3,1.43,3.08,1.44,3.08,1.41,2.86
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,2nd Round,5,Karlovic I.,Young D.,23,56,1570,817,6,4,7,6,6,4,,,,,3,0,Completed,1.5,2.5,1.42,2.5,1.5,2.62,1.52,2.74,1.54,2.74,1.49,2.59
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Tsonga J.W.,Anderson K.,11,35,2875,1275,6,3,6,4,7,6,,,,,3,0,Completed,1.44,2.75,1.38,2.65,1.44,2.75,1.47,2.94,1.48,3.05,1.42,3.82
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Baghdatis M.,Harrison R.,44,120,1015,509,6,3,7,6,1,6,6,1,,,3,1,Completed,1.72,2.1,1.65,1.95,1.73,2.1,1.79,2.16,1.8,2.2,1.73,2.09
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Sock J.,Cilic M.,27,9,1450,3515,6,4,6,3,6,3,,,,,3,0,Completed,3.75,1.28,2.9,1.3,3.5,1.3,4.01,1.3,4.01,1.36,3.56,1.3
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Monfils G.,Almagro N.,12,48,2835,987,6,4,6,2,6,4,,,,,3,0,Completed,1.12,6,1.1,5.1,1.14,5.5,1.15,6.74,1.16,6.75,1.13,5.97
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Djokovic N.,Youzhny M.,1,61,14840,801,4,2,,,,,,,,,0,0,Retired,1.06,10,1.04,6.5,1.05,10,1.07,12.28,1.07,12.28,1.05,9.72
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Pouille L.,Bautista Agut R.,25,17,1481,2040,3,6,7,5,2,6,7,5,6,1,3,2,Completed,4,1.25,3.3,1.22,4,1.25,4.18,1.28,4.2,1.29,3.91,1.25
+52,New York,US Open,02/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Edmund K.,Isner J.,84,21,679,1645,6,4,3,6,6,2,7,6,,,3,1,Completed,3.25,1.33,3,1.28,3,1.4,3.62,1.34,3.8,1.4,3.31,1.33
+52,New York,US Open,03/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Nadal R.,Kuznetsov A.,5,47,4850,988,6,1,6,4,6,2,,,,,3,0,Completed,1.08,8,1.06,6,1.08,8,1.1,9.38,1.1,9.65,1.08,8.02
+52,New York,US Open,03/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Thiem D.,Carreno Busta P.,10,39,3205,1110,1,6,6,4,6,4,7,5,,,3,1,Completed,1.25,4,1.28,3.1,1.29,3.75,1.28,4.14,1.3,4.2,1.27,3.78
+52,New York,US Open,03/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Dimitrov G.,Sousa J.,24,36,1555,1215,6,4,6,1,3,6,6,2,,,3,1,Completed,1.3,3.5,1.22,3.3,1.29,3.75,1.32,3.85,1.33,4,1.28,3.63
+52,New York,US Open,03/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Del Potro J.M.,Ferrer D.,142,13,410,2660,7,6,6,2,6,3,,,,,3,0,Completed,1.22,4,1.25,3.3,1.25,4,1.28,4.15,1.29,4.33,1.24,3.99
+52,New York,US Open,03/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Murray A.,Lorenzi P.,2,40,9305,1110,7,6,5,7,6,2,6,3,,,3,1,Completed,1.005,29,1,10,1.01,21,1.01,31.3,1.02,34,1.01,21.14
+52,New York,US Open,03/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Wawrinka S.,Evans D.,3,64,4980,775,4,6,6,3,6,7,7,6,6,2,3,2,Completed,1.11,6.5,1.09,5.5,1.1,7,1.13,7.65,1.15,7.65,1.11,6.52
+52,New York,US Open,03/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Nishikori K.,Mahut N.,7,42,4165,1038,4,6,6,1,6,2,6,2,,,3,1,Completed,1.1,7,1.09,5.5,1.11,6.5,1.13,7.54,1.15,8.2,1.11,6.65
+52,New York,US Open,04/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Karlovic I.,Donaldson J.,23,122,1570,497,6,4,7,6,6,3,,,,,3,0,Completed,1.53,2.5,1.5,2.3,1.57,2.38,1.53,2.73,1.6,2.73,1.52,2.51
+52,New York,US Open,04/09/16,Grand Slam,Outdoor,Hard,3rd Round,5,Marchenko I.,Kyrgios N.,63,16,795,2060,4,6,6,4,6,1,,,,,2,1,Retired,8,1.08,5.5,1.08,7,1.1,8.37,1.11,8.45,1.11,7.35,1.09
+52,New York,US Open,04/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Monfils G.,Baghdatis M.,12,44,2835,1015,6,3,6,2,6,3,,,,,3,0,Completed,1.14,5.5,1.15,4.3,1.17,5,1.18,5.86,1.18,6.09,1.15,5.32
+52,New York,US Open,04/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Tsonga J.W.,Sock J.,11,27,2875,1450,6,3,6,3,6,7,6,2,,,3,1,Completed,1.66,2.2,1.55,2.1,1.62,2.25,1.73,2.26,1.73,2.35,1.64,2.24
+52,New York,US Open,04/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Pouille L.,Nadal R.,25,5,1481,4850,6,1,2,6,6,4,3,6,7,6,3,2,Completed,10,1.06,6.25,1.06,8,1.08,9.55,1.09,10.65,1.09,8.75,1.07
+52,New York,US Open,05/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Djokovic N.,Edmund K.,1,84,14840,679,6,2,6,1,6,4,,,,,3,0,Completed,1.06,10,1.06,6.25,1.06,9,1.07,11.71,1.07,12,1.06,9.56
+52,New York,US Open,05/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Del Potro J.M.,Thiem D.,142,10,410,3205,6,3,3,2,,,,,,,1,0,Retired,1.4,3,1.35,2.65,1.4,3,1.42,3.15,1.43,3.15,1.39,2.98
+52,New York,US Open,05/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Wawrinka S.,Marchenko I.,3,63,4980,795,6,4,6,1,6,7,6,3,,,3,1,Completed,1.08,8,1.07,6,1.08,8,1.11,8.2,1.11,8.25,1.09,7.32
+52,New York,US Open,05/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Nishikori K.,Karlovic I.,7,23,4165,1570,6,3,6,4,7,6,,,,,3,0,Completed,1.25,4,1.17,4,1.25,4,1.3,4.01,1.3,4.33,1.25,3.93
+52,New York,US Open,06/09/16,Grand Slam,Outdoor,Hard,4th Round,5,Murray A.,Dimitrov G.,2,24,9305,1555,6,1,6,2,6,2,,,,,3,0,Completed,1.12,6,1.1,5,1.14,5.5,1.15,6.55,1.17,7,1.13,5.8
+52,New York,US Open,06/09/16,Grand Slam,Outdoor,Hard,Quarterfinals,5,Monfils G.,Pouille L.,12,25,2835,1481,6,4,6,3,6,3,,,,,3,0,Completed,1.2,4.5,1.14,4.3,1.2,4.5,1.23,4.88,1.23,5,1.2,4.54
+52,New York,US Open,07/09/16,Grand Slam,Outdoor,Hard,Quarterfinals,5,Djokovic N.,Tsonga J.W.,1,11,14840,2875,6,3,6,2,,,,,,,2,0,Retired,1.12,6,1.11,4.9,1.13,6.5,1.16,6.23,1.17,6.5,1.14,5.76
+52,New York,US Open,07/09/16,Grand Slam,Outdoor,Hard,Quarterfinals,5,Nishikori K.,Murray A.,7,2,4165,9305,1,6,6,4,4,6,6,1,7,5,3,2,Completed,5.5,1.14,4.5,1.14,5.5,1.14,6.08,1.17,6.18,1.17,5.45,1.15
+52,New York,US Open,08/09/16,Grand Slam,Outdoor,Hard,Quarterfinals,5,Wawrinka S.,Del Potro J.M.,3,142,4980,410,7,6,4,6,6,3,6,2,,,3,1,Completed,2.37,1.57,2.1,1.55,2.38,1.57,2.45,1.64,2.5,1.7,2.34,1.6
+52,New York,US Open,09/09/16,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,Monfils G.,1,12,14840,2835,6,3,6,2,3,6,6,2,,,3,1,Completed,1.14,5.5,1.11,4.9,1.12,6,1.18,6.01,1.18,6.09,1.15,5.57
+52,New York,US Open,09/09/16,Grand Slam,Outdoor,Hard,Semifinals,5,Wawrinka S.,Nishikori K.,3,7,4980,4165,4,6,7,5,6,4,6,2,,,3,1,Completed,2.1,1.72,1.92,1.7,2.1,1.73,2.22,1.77,2.27,1.78,2.12,1.72
+52,New York,US Open,11/09/16,Grand Slam,Outdoor,Hard,The Final,5,Wawrinka S.,Djokovic N.,3,1,4980,14840,6,7,6,4,7,5,6,3,,,3,1,Completed,3.4,1.33,2.85,1.33,3.4,1.36,3.62,1.35,3.62,1.45,3.28,1.35

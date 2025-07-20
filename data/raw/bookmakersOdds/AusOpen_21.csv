@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Raonic M.,Coria F.,14,92,2630,785,6,3,6,3,6,2,,,,,3,0,Completed,1.01,26,1.01,26.84,1.02,34,1.01,21.38
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Mannarino A.,Novak D.,36,98,1561,752,6,2,6,4,7,6,,,,,3,0,Completed,1.66,2.2,1.66,2.37,1.83,2.37,1.68,2.19
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Ruusuvuori E.,Monfils G.,86,11,816,2860,3,6,6,4,7,5,3,6,6,3,3,2,Completed,1.61,2.3,1.56,2.59,1.78,2.6,1.56,2.42
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Moutet C.,Millman J.,71,39,928,1421,6,4,6,7,3,6,6,2,6,3,3,2,Completed,3,1.4,2.88,1.48,3.05,1.5,2.78,1.44
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Opelka R.,Lu Y.,38,1009,1422,10,6,3,7,6,6,3,,,,,3,0,Completed,1.06,10,1.05,14.72,1.07,15,1.04,11.4
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Sousa P.,18,107,2365,701,6,3,6,2,6,4,,,,,3,0,Completed,1.08,8,1.09,9.33,1.1,11.25,1.08,8.13
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Bolt A.,Gombos N.,166,89,400,797,6,2,6,2,4,6,6,3,,,3,1,Completed,1.66,2.2,1.88,2.02,1.94,2.4,1.74,2.09
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Martinez P.,Nishioka Y.,87,58,810,1062,6,7,6,1,6,1,6,1,,,3,1,Completed,3.2,1.36,3.1,1.43,3.25,1.47,3,1.38
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Fritz T.,Ramos-Vinolas A.,31,46,1695,1210,7,6,3,6,6,2,7,6,,,3,1,Completed,1.14,5.5,1.18,5.63,1.2,6.05,1.15,5.47
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Fucsovics M.,Polmans M.,55,126,1072,546,4,6,6,3,6,1,6,7,6,3,3,2,Completed,1.16,5,1.23,4.67,1.24,5.3,1.19,4.58
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Kukushkin M.,3,90,9125,796,7,6,6,2,6,3,,,,,3,0,Completed,1.02,17,1.04,16.39,1.05,21,1.02,15.11
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Karatsev A.,Mager G.,114,96,642,770,6,3,6,3,6,4,,,,,3,0,Completed,1.25,4,1.26,4.33,1.32,4.55,1.24,4
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Kecmanovic M.,Majchrzak K.,41,109,1353,690,6,2,6,4,6,3,,,,,3,0,Completed,1.44,2.75,1.49,2.85,1.49,3.1,1.42,2.87
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Giron M.,7,75,5615,889,6,7,7,6,6,3,6,2,,,3,1,Completed,1.05,11,1.06,11.72,1.09,12,1.06,9.63
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Bublik A.,Bedene A.,45,57,1220,1065,6,4,7,5,5,7,6,4,,,3,1,Completed,2,1.8,1.99,1.92,2.05,2.05,1.95,1.86
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Gerasimov E.,Paire B.,79,29,854,1738,6,2,2,6,7,6,7,5,,,3,1,Completed,1.16,5,1.19,5.44,1.19,8,1.15,5.36
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Duckworth J.,Dzumhur D.,105,120,721,572,6,3,6,2,6,4,,,,,3,0,Completed,1.36,3.2,1.45,2.98,1.45,3.25,1.38,3.02
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Vesely J.,Coppejans K.,68,178,958,368,6,4,3,6,6,7,6,3,6,3,3,2,Completed,1.25,4,1.29,3.97,1.32,4.35,1.25,3.91
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Humbert U.,Uchiyama Y.,34,106,1671,701,6,3,6,4,6,7,6,3,,,3,1,Completed,1.14,5.5,1.16,6.25,1.17,6.5,1.14,5.8
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Muller A.,Londero J.I.,210,83,305,832,4,6,6,3,6,0,6,3,,,3,1,Completed,1.8,2,1.89,2,1.91,2.05,1.83,1.99
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Nishikori K.,16,42,2585,1345,7,5,7,6,6,2,,,,,3,0,Completed,1.33,3.4,1.3,3.92,1.35,3.95,1.3,3.51
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Tiafoe F.,Travaglia S.,64,60,1005,1024,7,6,6,2,6,2,,,,,3,0,Completed,1.28,3.75,1.33,3.66,1.33,3.8,1.29,3.55
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,Cilic M.,21,43,2260,1325,6,4,6,2,7,6,,,,,3,0,Completed,1.5,2.62,1.6,2.51,1.6,2.67,1.52,2.54
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Koepfer D.,Dellien H.,70,112,931,646,7,5,6,2,6,4,,,,,3,0,Completed,1.22,4.33,1.26,4.3,1.26,5.3,1.21,4.42
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Lajovic D.,Stakhovsky S.,27,200,1785,332,5,7,6,4,6,3,5,7,6,4,3,2,Completed,1.36,3.2,1.4,3.24,1.4,3.46,1.35,3.18
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Auger-Aliassime F.,Stebe C.M.,19,129,2346,539,6,2,6,4,6,2,,,,,3,0,Completed,1.12,6,1.18,5.74,1.23,6.59,1.14,5.64
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Schwartzman D.,Ymer E.,9,205,3480,314,7,6,6,4,2,6,6,2,,,3,1,Completed,1.04,13,1.05,14.13,1.06,18,1.04,11.74
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Tomic B.,Sugita Y.,233,104,253,723,3,6,6,1,4,1,,,,,1,1,Retired,2.2,1.66,2.1,1.83,2.25,1.83,2.11,1.73
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Kyrgios N.,Ferreira Silva F.,47,185,1190,356,6,4,6,4,6,4,,,,,3,0,Completed,1.14,5.5,1.15,6.35,1.17,6.35,1.14,5.61
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Cressy M.,Daniel T.,172,118,389,591,7,6,7,6,6,4,,,,,3,0,Completed,2.1,1.72,2.27,1.71,2.3,1.8,2.14,1.71
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Djokovic N.,Chardy J.,1,61,12030,1020,6,3,6,1,6,2,,,,,3,0,Completed,1.01,26,1.01,31.6,1.02,67,1.01,23.28
+5,Melbourne,Australian Open,08/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Shapovalov D.,Sinner J.,12,32,2830,1694,3,6,6,3,6,2,4,6,6,4,3,2,Completed,1.5,2.62,1.48,2.86,1.53,2.9,1.46,2.7
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Harris L.,Torpegaard M.,91,188,793,350,4,6,6,3,6,2,6,2,,,3,1,Completed,1.36,3.2,1.41,3.15,1.45,3.26,1.37,3.07
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Mcdonald M.,Cecchinato M.,192,82,345,838,3,6,6,3,6,2,6,2,,,3,1,Completed,1.36,3.2,1.38,3.35,1.4,3.4,1.35,3.16
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Monteiro T.,Martin A.,74,103,894,734,7,6,6,1,6,2,,,,,3,0,Completed,1.22,4.33,1.25,4.42,1.25,4.9,1.22,4.24
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,O Connell C.,Struff J.L.,121,37,568,1495,7,6,7,6,6,1,,,,,3,0,Completed,4.5,1.2,4.3,1.26,4.73,1.26,4.29,1.22
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Coric B.,Pella G.,25,44,1855,1310,6,3,7,6,7,5,,,,,3,0,Completed,1.12,6,1.2,5.29,1.2,6.59,1.16,5.34
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Alcaraz C.,Van De Zandschulp B.,141,151,484,461,6,1,6,4,6,4,,,,,3,0,Completed,1.66,2.2,1.75,2.21,1.8,2.25,1.7,2.15
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Ymer M.,Hurkacz H.,95,30,775,1735,3,6,6,3,3,6,7,5,6,3,3,2,Completed,4.33,1.22,5.61,1.18,6.4,1.24,4.85,1.18
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Rublev A.,Hanfmann Y.,8,102,4429,736,6,3,6,3,6,4,,,,,3,0,Completed,1.01,23,1.01,28.1,1.02,28.1,1.01,19.82
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Popyrin A.,Goffin D.,113,15,643,2600,3,6,6,4,6,7,7,6,6,3,3,2,Completed,3,1.4,2.99,1.45,3.27,1.45,2.93,1.4
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Khachanov K.,Vukic A.,20,196,2290,341,6,3,6,7,7,6,6,4,,,3,1,Completed,1.1,7,1.13,7.15,1.13,8.67,1.1,6.93
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Albot R.,Bautista Agut R.,85,13,817,2710,6,7,6,0,6,4,7,6,,,3,1,Completed,11,1.05,11.37,1.07,21,1.07,11.43,1.04
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Cuevas P.,Seppi A.,72,108,927,699,6,4,4,6,6,2,6,2,,,3,1,Completed,1.66,2.2,1.77,2.18,1.77,2.4,1.67,2.2
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Krajinovic F.,Haase R.,33,197,1673,340,7,6,6,3,4,6,6,2,,,3,1,Completed,1.22,4.33,1.23,4.71,1.24,4.85,1.2,4.47
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Andujar P.,Halys Q.,59,207,1044,310,6,4,7,5,7,5,,,,,3,0,Completed,3,1.4,2.71,1.52,3.16,1.52,2.75,1.45
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Berankis R.,Nagal S.,73,144,909,480,6,2,7,5,6,3,,,,,3,0,Completed,1.12,6,1.13,7.14,1.16,7.7,1.12,6.45
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Medvedev D.,Pospisil V.,4,63,8715,1013,6,2,6,2,6,4,,,,,3,0,Completed,1.04,13,1.06,12.78,1.06,14.75,1.04,11.62
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Lopez F.,Tu L.,65,N/A,998,N/A,6,7,6,4,7,6,6,4,,,3,1,Completed,1.33,3.4,1.34,3.63,1.37,3.71,1.33,3.35
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Sonego L.,Querrey S.,35,52,1588,1085,7,5,6,4,6,4,,,,,3,0,Completed,1.8,2,1.9,2,1.92,2.15,1.8,2.01
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Paul T.,Basilashvili N.,53,40,1080,1405,6,4,7,6,6,4,,,,,3,0,Completed,1.2,4.5,1.25,4.48,1.27,4.75,1.22,4.27
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Nadal R.,Djere L.,2,56,9850,1068,6,3,6,4,6,1,,,,,3,0,Completed,1.01,26,1.02,22.45,1.04,34,1.01,19.14
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Caruso S.,Laaksonen H.,78,139,863,492,6,2,6,4,6,3,,,,,3,0,Completed,1.57,2.37,1.59,2.53,1.62,2.7,1.54,2.47
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Mmoh M.,Troicki V.,177,202,368,326,7,6,6,7,3,6,7,6,7,5,3,2,Completed,1.66,2.2,1.61,2.47,1.7,2.48,1.63,2.28
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,De Minaur A.,Sandgren T.,23,51,2065,1091,7,5,6,1,6,1,,,,,3,0,Completed,1.12,6,1.13,7.16,1.15,8.3,1.12,6.3
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Carballes Baena R.,Balazs A.,99,94,751,779,7,5,3,6,6,2,6,3,,,3,1,Completed,1.08,8,1.1,8.48,1.13,12.25,1.09,7.43
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Norrie C.,Evans D.,69,26,935,1794,6,4,4,6,6,4,7,5,,,3,1,Completed,3,1.4,3.05,1.43,3.44,1.43,3,1.39
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Machac T.,Vilella Martinez M.,199,181,333,359,6,7,7,5,6,0,3,0,,,2,1,Retired,1.44,2.75,1.46,2.94,1.53,2.94,1.45,2.74
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Fognini F.,Herbert P.H.,17,84,2535,822,6,4,6,2,6,3,,,,,3,0,Completed,1.72,2.1,1.78,2.16,1.78,2.38,1.69,2.16
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Ruud C.,Thompson J.,28,49,1739,1113,6,3,6,3,2,1,,,,,2,0,Retired,1.8,2,1.81,2.12,1.91,2.12,1.8,2.01
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Kokkinakis T.,Kwon S.W.,267,97,209,768,6,4,6,1,6,1,,,,,3,0,Completed,1.72,2.1,1.68,2.33,1.77,2.35,1.67,2.21
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Berrettini M.,Anderson K.,10,81,3345,845,7,6,7,5,6,3,,,,,3,0,Completed,1.33,3.4,1.42,3.13,1.42,3.56,1.35,3.22
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Safiullin R.,Ivashka I.,183,110,357,681,6,4,6,3,6,4,,,,,3,0,Completed,1.57,2.37,1.67,2.36,1.7,2.47,1.61,2.33
+5,Melbourne,Australian Open,09/02/2021,Grand Slam,Outdoor,Hard,1st Round,5,Tsitsipas S.,Simon G.,6,66,5965,990,6,1,6,2,6,1,,,,,3,0,Completed,1.06,10,1.05,13.34,1.08,15,1.04,11.11
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Karatsev A.,Gerasimov E.,114,79,642,854,6,0,6,1,6,0,,,,,3,0,Completed,1.53,2.5,1.69,2.3,1.69,2.55,1.58,2.39
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Fucsovics M.,Wawrinka S.,55,18,1072,2365,7,5,6,1,4,6,2,6,7,6,3,2,Completed,3,1.4,2.95,1.46,3.2,1.48,2.9,1.41
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Martinez P.,Ruusuvuori E.,87,86,810,816,1,6,6,3,6,2,7,6,,,3,1,Completed,3,1.4,3.26,1.39,3.26,1.47,2.96,1.4
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Auger-Aliassime F.,Duckworth J.,19,105,2346,721,6,4,6,1,6,2,,,,,3,0,Completed,1.2,4.5,1.24,4.57,1.25,5,1.21,4.43
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Schwartzman D.,Muller A.,9,210,3480,305,6,2,6,0,6,3,,,,,3,0,Completed,1.08,8,1.09,9.69,1.14,11.75,1.08,8.26
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Raonic M.,Moutet C.,14,71,2630,928,6,7,6,1,6,1,6,4,,,3,1,Completed,1.12,6,1.14,6.76,1.17,7,1.13,6.14
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Djokovic N.,Tiafoe F.,1,64,12030,1005,6,3,6,7,7,6,6,3,,,3,1,Completed,29,0.967,1.02,24.5,1.02,29,1.01,19.55
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Thiem D.,Koepfer D.,3,70,9125,931,6,4,6,0,6,2,,,,,3,0,Completed,1.06,10,1.04,14.88,1.08,15,1.04,11.65
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Lajovic D.,Bublik A.,27,45,1785,1220,6,4,7,6,4,6,6,3,,,3,1,Completed,2.75,1.44,3.18,1.41,3.26,1.48,2.94,1.41
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Fritz T.,Opelka R.,31,38,1695,1422,4,6,7,6,6,7,7,6,6,2,3,2,Completed,1.66,2.2,1.77,2.18,1.77,2.25,1.7,2.15
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Shapovalov D.,Tomic B.,12,233,2830,253,6,1,6,3,6,2,,,,,3,0,Completed,1.07,9,1.08,10.06,1.1,10.06,1.07,8.37
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Mannarino A.,Kecmanovic M.,36,41,1561,1353,6,1,6,2,6,4,,,,,3,0,Completed,2.1,1.72,2.39,1.65,2.39,1.77,2.17,1.7
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Carreno Busta P.,Vesely J.,16,68,2585,958,6,3,7,6,2,6,6,4,,,3,1,Completed,1.22,4.33,1.22,4.92,1.24,5.5,1.2,4.57
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Kyrgios N.,Humbert U.,47,34,1190,1671,5,7,6,4,3,6,7,6,6,4,3,2,Completed,1.8,2,1.78,2.16,1.92,2.19,1.79,2.02
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Zverev A.,Cressy M.,7,172,5615,389,7,5,6,4,6,3,,,,,3,0,Completed,1.08,8,1.06,12.02,1.08,12.02,1.06,9.84
+5,Melbourne,Australian Open,10/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Dimitrov G.,Bolt A.,21,166,2260,400,7,6,6,1,6,2,,,,,3,0,Completed,1.22,4.33,1.2,5.3,1.27,5.5,1.2,4.5
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Lopez F.,Sonego L.,65,35,998,1588,5,7,3,6,6,3,7,5,6,4,3,2,Completed,4,1.25,4.1,1.28,4.33,1.32,3.92,1.25
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Rublev A.,Monteiro T.,8,74,4429,894,6,4,6,4,7,6,,,,,3,0,Completed,1.04,13,1.06,13.05,1.07,16,1.03,12.39
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Harris L.,Popyrin A.,91,113,793,643,6,2,1,6,6,3,6,7,6,3,3,2,Completed,1.61,2.3,1.71,2.27,1.71,2.38,1.64,2.25
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Ymer M.,Alcaraz C.,95,141,775,484,2,6,6,4,6,4,7,6,,,3,1,Completed,2.62,1.5,2.58,1.57,2.67,1.57,2.53,1.52
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Ruud C.,Paul T.,28,53,1739,1080,3,6,6,2,6,4,7,5,,,3,1,Completed,1.72,2.1,1.78,2.16,1.8,2.25,1.72,2.11
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Khachanov K.,Berankis R.,20,73,2290,909,6,2,6,4,6,4,,,,,3,0,Completed,1.25,4,1.31,3.79,1.31,4.15,1.26,3.79
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Krajinovic F.,Andujar P.,33,59,1673,1044,6,2,5,7,6,1,6,4,,,3,1,Completed,1.12,6,1.14,6.69,1.15,7.3,1.12,6.12
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Tsitsipas S.,Kokkinakis T.,6,267,5965,209,6,7,6,4,6,1,6,7,6,4,3,2,Completed,1.08,8,1.11,8.27,1.13,8.73,1.09,7.48
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Berrettini M.,Machac T.,10,199,3345,333,6,3,6,2,4,6,6,3,,,3,1,Completed,1.05,11,1.07,10.94,1.09,12,1.06,9.51
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Mcdonald M.,Coric B.,192,25,345,1855,6,4,6,2,4,6,6,4,,,3,1,Completed,4.5,1.2,4.93,1.22,5.35,1.22,4.73,1.18
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Albot R.,O Connell C.,85,121,817,568,6,2,7,5,7,6,,,,,3,0,Completed,2.5,1.53,2.48,1.61,2.55,1.63,2.45,1.55
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Fognini F.,Caruso S.,17,78,2535,863,4,6,6,2,2,6,6,3,7,6,3,2,Completed,1.4,3,1.49,2.82,1.49,3.21,1.43,2.8
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Norrie C.,Safiullin R.,69,183,935,357,3,6,7,5,6,3,7,6,,,3,1,Completed,1.36,3.2,1.38,3.33,1.46,3.38,1.37,3.11
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,De Minaur A.,Cuevas P.,23,72,2065,927,6,3,6,3,7,5,,,,,3,0,Completed,1.08,8,1.07,10.7,1.09,10.7,1.07,8.23
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Medvedev D.,Carballes Baena R.,4,99,8715,751,6,2,7,5,6,1,,,,,3,0,Completed,1.005,29,1.01,29.43,1.03,41,1.01,21.79
+5,Melbourne,Australian Open,11/02/2021,Grand Slam,Outdoor,Hard,2nd Round,5,Nadal R.,Mmoh M.,2,177,9850,368,6,1,6,4,6,2,,,,,3,0,Completed,1.01,23,1.02,22.58,1.02,29,1.01,18.7
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Dimitrov G.,Carreno Busta P.,21,16,2260,2585,6,0,1,0,,,,,,,1,0,Retired,1.72,2.1,1.85,2.06,1.87,2.28,1.75,2.08
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Zverev A.,Mannarino A.,7,36,5615,1561,6,3,6,3,6,1,,,,,3,0,Completed,1.14,5.5,1.16,6.05,1.17,7,1.14,5.68
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Lajovic D.,Martinez P.,27,87,1785,810,6,7,7,5,6,1,6,4,,,3,1,Completed,1.72,2.1,1.81,2.12,1.83,2.28,1.73,2.11
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Karatsev A.,Schwartzman D.,114,9,642,3480,6,3,6,3,6,3,,,,,3,0,Completed,3.4,1.33,3.61,1.34,3.65,1.41,3.33,1.33
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Raonic M.,Fucsovics M.,14,55,2630,1072,7,6,5,7,6,2,6,2,,,3,1,Completed,1.14,5.5,1.13,7.08,1.17,7.08,1.13,6.02
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Auger-Aliassime F.,Shapovalov D.,19,12,2346,2830,7,5,7,5,6,3,,,,,3,0,Completed,2.75,1.44,2.57,1.57,3.06,1.57,2.72,1.46
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Thiem D.,Kyrgios N.,3,47,9125,1190,4,6,4,6,6,3,6,4,6,4,3,2,Completed,1.28,3.75,1.27,4.22,1.3,4.33,1.25,3.95
+5,Melbourne,Australian Open,12/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Djokovic N.,Fritz T.,1,31,12030,1695,7,6,6,4,3,6,4,6,6,2,3,2,Completed,1.01,21,1.01,27.5,1.03,34,1.01,19.34
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Ruud C.,Albot R.,28,85,1739,817,6,1,5,7,6,4,6,4,,,3,1,Completed,1.33,3.4,1.32,3.72,1.35,3.72,1.32,3.4
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Mcdonald M.,Harris L.,192,91,345,793,7,6,6,1,6,4,,,,,3,0,Completed,2.2,1.66,2.1,1.83,2.21,1.87,2.09,1.75
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Medvedev D.,Krajinovic F.,4,33,8715,1673,6,3,6,3,4,6,3,6,6,0,3,2,Completed,1.05,11,1.06,12.78,1.07,13.5,1.05,10.07
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Tsitsipas S.,Ymer M.,6,95,5965,775,6,4,6,1,6,1,,,,,3,0,Completed,1.03,15,1.04,15.32,1.06,16.25,1.04,12.17
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Rublev A.,Lopez F.,8,65,4429,998,7,5,6,2,6,3,,,,,3,0,Completed,1.02,19,1.03,17.33,1.04,19.1,1.03,13.97
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Berrettini M.,Khachanov K.,10,20,3345,2290,7,6,7,6,7,6,,,,,3,0,Completed,1.4,3,1.43,3.05,1.48,3.3,1.4,2.95
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Fognini F.,De Minaur A.,17,23,2535,2065,6,4,6,3,6,4,,,,,3,0,Completed,5.5,1.14,5.99,1.17,7.13,1.19,5.59,1.14
+5,Melbourne,Australian Open,13/02/2021,Grand Slam,Outdoor,Hard,3rd Round,5,Nadal R.,Norrie C.,2,69,9850,935,7,5,6,2,7,5,,,,,3,0,Completed,1.02,19,1.03,17.95,1.04,26,1.02,15.15
+5,Melbourne,Australian Open,14/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Karatsev A.,Auger-Aliassime F.,114,19,642,2346,3,6,1,6,6,3,6,3,6,4,3,2,Completed,2.5,1.53,2.77,1.52,2.85,1.6,2.53,1.52
+5,Melbourne,Australian Open,14/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Dimitrov G.,Thiem D.,21,3,2260,9125,6,4,6,4,6,0,,,,,3,0,Completed,3.4,1.33,3.59,1.35,3.98,1.36,3.45,1.31
+5,Melbourne,Australian Open,14/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Zverev A.,Lajovic D.,7,27,5615,1785,6,4,7,6,6,3,,,,,3,0,Completed,1.06,10,1.07,11.65,1.08,13.7,1.06,9.75
+5,Melbourne,Australian Open,14/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Djokovic N.,Raonic M.,1,14,12030,2630,7,6,4,6,6,1,6,4,,,3,1,Completed,1.44,2.75,1.51,2.81,1.52,2.97,1.46,2.73
+5,Melbourne,Australian Open,15/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Medvedev D.,Mcdonald M.,4,192,8715,345,6,4,6,2,6,3,,,,,3,0,Completed,1.03,15,1.05,14.03,1.06,16,1.04,12.13
+5,Melbourne,Australian Open,15/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Rublev A.,Ruud C.,8,28,4429,1739,6,2,7,6,,,,,,,2,0,Retired,1.08,8,1.12,8.05,1.12,8.9,1.09,7.46
+5,Melbourne,Australian Open,15/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Nadal R.,Fognini F.,2,17,9850,2535,6,3,6,4,6,2,,,,,3,0,Completed,1.16,5,1.16,6.47,1.21,6.47,1.15,5.43
+5,Melbourne,Australian Open,15/02/2021,Grand Slam,Outdoor,Hard,4th Round,5,Tsitsipas S.,Berrettini M.,6,10,5965,3345,,,,,,,,,,,,,Walkover,1.25,4,1.29,4.08,1.3,4.2,1.26,3.9
+5,Melbourne,Australian Open,16/02/2021,Grand Slam,Outdoor,Hard,Quarterfinals,5,Karatsev A.,Dimitrov G.,114,21,642,2260,2,6,6,4,6,1,6,2,,,3,1,Completed,3.5,1.3,3.6,1.35,3.75,1.38,3.42,1.32
+5,Melbourne,Australian Open,16/02/2021,Grand Slam,Outdoor,Hard,Quarterfinals,5,Djokovic N.,Zverev A.,1,7,12030,5615,6,7,6,2,6,4,7,6,,,3,1,Completed,1.57,2.37,1.68,2.33,1.69,2.61,1.58,2.4
+5,Melbourne,Australian Open,17/02/2021,Grand Slam,Outdoor,Hard,Quarterfinals,5,Medvedev D.,Rublev A.,4,8,8715,4429,7,5,6,3,6,2,,,,,3,0,Completed,1.44,2.75,1.46,2.93,1.48,3.32,1.42,2.89
+5,Melbourne,Australian Open,17/02/2021,Grand Slam,Outdoor,Hard,Quarterfinals,5,Tsitsipas S.,Nadal R.,6,2,5965,9850,3,6,2,6,7,6,6,4,7,5,3,2,Completed,2.75,1.44,2.97,1.45,3.2,1.48,2.9,1.42
+5,Melbourne,Australian Open,18/02/2021,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,Karatsev A.,1,114,12030,642,6,3,6,4,6,2,,,,,3,0,Completed,1.07,9,1.08,10.24,1.11,10.5,1.07,8.72
+5,Melbourne,Australian Open,19/02/2021,Grand Slam,Outdoor,Hard,Semifinals,5,Medvedev D.,Tsitsipas S.,4,6,8715,5965,6,4,6,2,7,5,,,,,3,0,Completed,1.4,3,1.46,2.93,1.46,3.3,1.41,2.97
+5,Melbourne,Australian Open,21/02/2021,Grand Slam,Outdoor,Hard,The Final,5,Djokovic N.,Medvedev D.,1,4,12030,8715,7,5,6,2,6,2,,,,,3,0,Completed,1.83,2,1.83,2.09,1.97,2.1,1.84,2

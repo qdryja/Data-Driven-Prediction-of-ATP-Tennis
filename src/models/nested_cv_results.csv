@@ -1,0 +1,21 @@
+accuracy,roc_auc,log_loss,brier,model,outer_fold,train_samples,test_samples,best_params,fit_time_sec
+0.6662374245472837,0.7283198181657823,0.6072991304698281,0.21032647942952495,log_reg,1,12428,12425,"{'model__C': 0.004641588833612777, 'model__penalty': 'l2'}",3.65
+0.6461971830985915,0.7092960577747114,0.6217800792542353,0.21610371493872776,decision_tree,1,12428,12425,"{'model__min_samples_leaf': 30, 'model__max_depth': 3}",1.71
+0.6692957746478874,0.7286834130169082,0.6108120116332484,0.2112961843398816,random_forest,1,12428,12425,"{'model__n_estimators': 600, 'model__min_samples_leaf': 4, 'model__max_features': 'log2', 'model__max_depth': 10}",211.16
+0.670261569416499,0.7333681719021943,0.6058534743014297,0.20922230747998907,xgboost,1,12428,12425,"{'model__subsample': 0.8, 'model__n_estimators': 500, 'model__max_depth': 3, 'model__learning_rate': 0.01, 'model__lambda': 1, 'model__gamma': 0.2, 'model__colsample_bytree': 0.8}",77.26
+0.688933601609658,0.7573124326435325,0.5845285000578558,0.20015279689774498,log_reg,2,24853,12425,"{'model__C': 0.1, 'model__penalty': 'l1'}",5.73
+0.6707444668008048,0.7332835214183979,0.6029508490471458,0.20761722384543244,decision_tree,2,24853,12425,"{'model__min_samples_leaf': 1, 'model__max_depth': 3}",3.57
+0.6867605633802817,0.7535456009114151,0.5887979178897134,0.20183108173265718,random_forest,2,24853,12425,"{'model__n_estimators': 600, 'model__min_samples_leaf': 2, 'model__max_features': 0.8, 'model__max_depth': 5}",490.13
+0.6885311871227364,0.7578007573152311,0.583501585016769,0.1998858231225601,xgboost,2,24853,12425,"{'model__subsample': 0.8, 'model__n_estimators': 500, 'model__max_depth': 5, 'model__learning_rate': 0.01, 'model__lambda': 1, 'model__gamma': 0.2, 'model__colsample_bytree': 0.8}",117.48
+0.6936016096579477,0.7677087151877068,0.5748475103532709,0.196070248631826,log_reg,3,37278,12425,"{'model__C': 0.004641588833612777, 'model__penalty': 'l2'}",12.4
+0.6811267605633803,0.7441047125921076,0.5949175655596691,0.20437565883463216,decision_tree,3,37278,12425,"{'model__min_samples_leaf': 1, 'model__max_depth': 3}",5.68
+0.6938430583501006,0.7656839218463868,0.5759716592667796,0.19679861141585103,random_forest,3,37278,12425,"{'model__n_estimators': 600, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt', 'model__max_depth': 10}",795.77
+0.6941649899396378,0.7680334760166693,0.5732921422829148,0.1957729283934396,xgboost,3,37278,12425,"{'model__subsample': 0.8, 'model__n_estimators': 500, 'model__max_depth': 5, 'model__learning_rate': 0.01, 'model__lambda': 1, 'model__gamma': 0.2, 'model__colsample_bytree': 0.8}",139.59
+0.6711468812877264,0.7395373571299723,0.6006806260045934,0.2069290541590735,log_reg,4,49703,12425,"{'model__C': 0.021544346900318832, 'model__penalty': 'l1'}",21.29
+0.6647082494969819,0.7242311080378043,0.61519457978959,0.2128036517925937,decision_tree,4,49703,12425,"{'model__min_samples_leaf': 30, 'model__max_depth': 5}",8.04
+0.6696177062374246,0.735177871859795,0.6027372054136446,0.2081733255658836,random_forest,4,49703,12425,"{'model__n_estimators': 600, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt', 'model__max_depth': 10}",1088.9
+0.6746076458752515,0.7405564868580121,0.5988048683617336,0.20640087569692556,xgboost,4,49703,12425,"{'model__subsample': 0.8, 'model__n_estimators': 500, 'model__max_depth': 5, 'model__learning_rate': 0.01, 'model__lambda': 1, 'model__gamma': 0.2, 'model__colsample_bytree': 0.8}",155.97
+0.6580281690140845,0.7272563514301422,0.6065555353643128,0.2103056385314856,log_reg,5,62128,12425,"{'model__C': 0.021544346900318832, 'model__penalty': 'l1'}",25.63
+0.6426559356136821,0.705883182097763,0.6240987815925528,0.21759648620501257,decision_tree,5,62128,12425,"{'model__min_samples_leaf': 30, 'model__max_depth': 5}",9.72
+0.6542454728370222,0.7177635708706306,0.6143357430835067,0.213590957213991,random_forest,5,62128,12425,"{'model__n_estimators': 600, 'model__min_samples_leaf': 4, 'model__max_features': 'sqrt', 'model__max_depth': 10}",1399.3
+0.6560160965794769,0.7242380530325444,0.6096806240572814,0.21159497322120047,xgboost,5,62128,12425,"{'model__subsample': 0.8, 'model__n_estimators': 500, 'model__max_depth': 5, 'model__learning_rate': 0.01, 'model__lambda': 1, 'model__gamma': 0.2, 'model__colsample_bytree': 0.8}",172.6

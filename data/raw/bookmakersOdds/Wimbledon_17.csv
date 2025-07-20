@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,EXW,EXL,LBW,LBL,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Querrey S.,Fabbiano T.,28,91,1495,610,7,6,7,5,6,2,,,,,3,0,Completed,1.2,4.5,1.16,4.6,1.17,5,1.17,5.96,1.2,6.25,1.18,4.97
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Herbert P.H.,Kyrgios N.,70,20,707,2110,6,3,6,4,,,,,,,2,0,Retired,5.5,1.14,5,1.14,5,1.17,6.02,1.17,6.6,1.17,5.46,1.15
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Monteiro T.,Whittington A.,100,210,544,255,4,6,6,3,7,6,7,6,,,3,1,Completed,4.33,1.22,3.95,1.21,4,1.25,4.14,1.28,4.33,1.29,4.09,1.24
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Janowicz J.,Shapovalov D.,141,164,400,344,6,4,3,6,6,3,7,6,,,3,1,Completed,1.8,2,1.75,1.95,1.8,2,1.78,2.16,1.95,2.16,1.8,2.01
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Brown D.,Sousa J.,97,62,585,830,3,6,7,6,6,4,6,4,,,3,1,Completed,1.4,3,1.37,2.85,1.4,3,1.48,2.86,1.49,3,1.42,2.86
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Basilashvili N.,Berlocq C.,54,80,866,659,6,4,7,6,6,1,,,,,3,0,Completed,1.5,2.62,1.5,2.4,1.53,2.5,1.56,2.6,1.56,2.62,1.52,2.53
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Bolelli S.,Lu Y.H.,312,75,154,680,6,3,1,6,6,3,6,4,,,3,1,Completed,1.36,3.25,1.35,2.95,1.4,3,1.38,3.35,1.42,3.35,1.37,3.08
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Paire B.,Dutra Silva R.,46,473,960,79,6,4,3,6,7,6,6,4,,,3,1,Completed,1.16,5,1.14,5,1.17,5,1.15,6.35,1.17,6.95,1.15,5.47
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Khachanov K.,Kuznetsov An.,34,76,1176,676,7,6,2,6,6,3,1,6,6,2,3,2,Completed,1.44,2.75,1.45,2.55,1.5,2.62,1.5,2.8,1.53,2.85,1.47,2.68
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Tsonga J.W.,Norrie C.,10,221,3075,244,6,3,6,2,6,2,,,,,3,0,Completed,1.03,15,1.02,10,1.03,12,1.03,17.65,1.04,22,1.03,13.43
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Murray A.,Bublik A.,1,135,9390,421,6,1,6,4,6,2,,,,,3,0,Completed,1.03,15,1.03,9,1.05,10,1.05,13.17,1.06,15,1.04,11.86
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Nishikori K.,Cecchinato M.,9,102,3830,540,6,2,6,2,6,0,,,,,3,0,Completed,1.02,10.5,1.03,9,1.04,11,1.06,13,1.06,17,1.04,11.76
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Anderson K.,Verdasco F.,42,35,970,1175,2,6,7,6,7,6,6,3,,,3,1,Completed,1.57,2.37,1.53,2.35,1.53,2.5,1.56,2.6,1.62,2.6,1.56,2.44
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Young D.,Istomin D.,43,72,970,704,5,7,6,4,6,4,4,2,,,2,1,Retired,1.61,2.25,1.62,2.15,1.61,2.2,1.73,2.24,1.74,2.46,1.64,2.25
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Bautista Agut R.,Haider-Maurer A.,19,1039,2155,9,6,3,6,1,6,2,,,,,3,0,Completed,1.04,13,1.02,10,1.03,12,1.03,17.65,1.04,22.25,1.03,13.21
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Pouille L.,Jaziri M.,16,77,2570,671,6,7,6,4,6,4,7,6,,,3,1,Completed,1.08,8,1.07,7,1.08,7.5,1.1,8.67,1.1,9.75,1.08,7.9
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Gojowczyk P.,Copil M.,140,85,410,629,7,6,2,6,6,3,6,1,,,3,1,Completed,1.8,2,1.85,1.85,1.91,1.91,1.95,1.95,1.95,2.06,1.87,1.93
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Stakhovsky S.,Benneteau J.,122,81,461,652,6,3,7,6,2,6,6,2,,,3,1,Completed,1.8,2,1.65,2.1,1.8,2,1.74,2.22,1.82,2.22,1.74,2.09
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Seppi A.,Gombos N.,87,93,626,596,6,2,3,6,6,2,6,1,,,3,1,Completed,1.2,4.5,1.18,4.3,1.2,4.5,1.21,5,1.24,5,1.2,4.56
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Cilic M.,Kohlschreiber P.,6,60,4235,840,6,4,6,2,6,3,,,,,3,0,Completed,1.16,5,1.15,4.75,1.17,5,1.17,5.77,1.18,6.45,1.16,5.28
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Nadal R.,Millman J.,2,137,7285,414,6,1,6,3,6,2,,,,,3,0,Completed,1.04,13,1.03,9,1.03,12,1.06,12.98,1.06,15.75,1.04,11.7
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Mayer F.,Troicki V.,114,40,500,1000,6,1,,,,,,,,,1,0,Retired,1.53,2.5,1.5,2.4,1.57,2.37,1.59,2.52,1.61,2.6,1.55,2.44
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Bedene A.,Karlovic I.,58,23,853,1835,6,7,7,6,6,7,7,6,8,6,3,2,Completed,2.75,1.44,2.65,1.42,2.75,1.44,2.82,1.49,3,1.49,2.75,1.44
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Fognini F.,Tursunov D.,29,715,1430,30,6,1,6,3,6,3,,,,,3,0,Completed,1.1,7,1.08,6.5,1.1,7,1.13,6.42,1.14,7.05,1.11,6.4
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Rosol L.,Laaksonen H.,214,104,249,538,4,6,7,5,6,3,6,4,,,3,1,Completed,1.28,3.75,1.27,3.45,1.3,3.5,1.32,3.74,1.33,3.75,1.29,3.56
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Muller G.,Fucsovics M.,26,109,1675,513,7,5,6,4,6,2,,,,,3,0,Completed,1.14,5.5,1.12,5.4,1.14,5.5,1.15,6.48,1.15,7.25,1.13,5.96
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Bemelmans R.,Haas T.,124,258,457,205,6,2,3,6,6,3,7,5,,,3,1,Completed,3,1.4,2.8,1.38,2.75,1.44,2.93,1.46,3,1.46,2.86,1.42
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Vesely J.,Marchenko I.,48,117,950,472,6,1,4,6,4,6,7,5,6,1,3,2,Completed,1.44,2.75,1.47,2.5,1.5,2.62,1.54,2.66,1.54,2.75,1.5,2.58
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Medvedev D.,Wawrinka S.,49,3,922,6175,6,4,3,6,6,4,6,1,,,3,1,Completed,3,1.4,3.05,1.33,3.25,1.36,3.48,1.36,3.48,1.43,3.18,1.35
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Dzumhur D.,Olivo R.,83,89,635,623,6,2,6,0,6,1,,,,,3,0,Completed,1.33,3.4,1.32,3.1,1.36,3.25,1.36,3.45,1.38,3.55,1.33,3.28
+40,London,Wimbledon,03/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Johnson S.,Kicker N.,31,94,1395,589,6,4,7,5,6,3,,,,,3,0,Completed,1.04,13,1.02,10,1.03,12,1.05,13.44,1.05,16,1.03,12.55
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Pavlasek A.,Escobedo E.,136,74,415,690,6,7,6,1,6,3,6,1,,,3,1,Completed,2.75,1.44,2.75,1.4,2.75,1.44,3.11,1.42,3.15,1.45,2.88,1.42
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Darcis S.,Berankis R.,61,196,831,280,4,6,6,3,2,6,6,4,6,3,3,2,Completed,1.44,2.75,1.4,2.75,1.44,2.75,1.43,3.05,1.5,3.05,1.43,2.79
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Edmund K.,Ward A.,50,869,898,17,4,6,6,3,6,2,6,1,,,3,1,Completed,1.12,6,1.1,5.9,1.12,6,1.11,8.05,1.15,9,1.11,6.58
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Ferrer D.,Gasquet R.,39,27,1005,1560,6,3,6,4,5,7,6,2,,,3,1,Completed,6.5,1.11,5.9,1.1,6,1.12,7.55,1.12,8.5,1.15,6.65,1.11
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Gulbis E.,Estrella Burgos V.,589,96,50,585,6,1,6,1,6,2,,,,,3,0,Completed,1.66,2.2,1.65,2.1,1.73,2.1,1.77,2.18,1.77,2.25,1.71,2.13
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Kukushkin M.,Daniel T.,118,92,465,609,4,6,6,4,7,6,6,2,,,3,1,Completed,1.4,3,1.4,2.75,1.44,2.75,1.5,2.8,1.51,3,1.44,2.76
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Youzhny M.,Mahut N.,82,78,640,670,6,2,7,5,6,4,,,,,3,0,Completed,2.62,1.5,2.4,1.5,2.5,1.53,2.6,1.56,2.65,1.59,2.51,1.53
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Zverev M.,Tomic B.,30,59,1396,845,6,4,6,3,6,4,,,,,3,0,Completed,2,1.8,1.95,1.75,2,1.8,2.11,1.81,2.11,1.87,2,1.81
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Del Potro J.M.,Kokkinakis T.,32,486,1325,75,6,3,3,6,7,6,6,4,,,3,1,Completed,1.2,4.5,1.19,4.2,1.22,4.33,1.21,5,1.27,5.25,1.2,4.53
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Raonic M.,Struff J.L.,7,53,4150,883,7,6,6,2,7,6,,,,,3,0,Completed,1.12,6,1.1,5.9,1.11,6.5,1.12,7.73,1.13,8.25,1.11,6.67
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Ramos-Vinolas A.,Thompson J.,22,86,1885,628,6,4,6,4,7,6,,,,,3,0,Completed,2.2,1.66,2.1,1.65,2.2,1.67,2.16,1.78,2.4,1.8,2.15,1.7
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Rublev A.,Travaglia S.,95,155,585,355,6,7,6,3,7,5,1,6,7,5,3,2,Completed,1.22,4.33,1.2,4.1,1.22,4.33,1.25,4.46,1.26,4.7,1.22,4.26
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Monfils G.,Brands D.,14,215,2695,249,6,3,7,5,6,4,,,,,3,0,Completed,1.1,7,1.09,6.25,1.11,6.5,1.12,7.42,1.14,8.25,1.11,6.74
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Albot R.,Bagnis F.,108,107,513,514,4,6,6,4,7,6,7,6,,,3,1,Completed,1.2,4.5,1.17,4.4,1.17,5,1.21,5.08,1.21,5.75,1.18,4.93
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Simon G.,Jarry N.,36,182,1095,299,7,6,6,3,6,3,,,,,3,0,Completed,1.25,4,1.27,3.45,1.3,3.5,1.31,3.85,1.32,4.2,1.28,3.71
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Djokovic N.,Klizan M.,4,47,6055,954,6,3,2,0,,,,,,,1,0,Retired,1.03,15,1.02,10,1.04,11,1.03,17.65,1.04,23.25,1.03,13.88
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Sugita Y.,Klein B.,44,232,967,231,7,6,6,3,6,0,,,,,3,0,Completed,1.16,5,1.16,4.6,1.17,5,1.2,5.24,1.2,5.8,1.18,4.95
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Zverev A.,Donskoy E.,12,98,3070,584,6,4,7,6,6,3,,,,,3,0,Completed,1.08,8,1.06,7.25,1.08,7.5,1.07,10.84,1.09,11.75,1.07,8.55
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Baghdatis M.,Ward J.,65,1085,745,8,6,4,6,4,6,3,,,,,3,0,Completed,1.25,4,1.22,3.85,1.25,4,1.21,5,1.26,5,1.23,4.19
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Sock J.,Garin C.,18,220,2335,245,6,3,4,6,7,6,6,3,,,3,1,Completed,1.16,5,1.17,4.4,1.2,4.5,1.22,4.86,1.22,5.5,1.18,5.78
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Lajovic D.,Tsitsipas S.,79,192,661,286,6,4,6,4,6,4,,,,,3,0,Completed,1.9,1.9,1.9,1.8,2,1.8,1.95,1.95,2.05,1.95,1.96,1.83
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Federer R.,Dolgopolov O.,5,84,5265,631,6,3,3,0,,,,,,,1,0,Retired,1.02,19,1.01,11.5,1.02,15,1.01,25.99,1.03,32.75,1.01,18.65
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Harrison R.,Coric B.,41,45,993,966,7,6,6,4,7,6,,,,,3,0,Completed,2,1.8,1.95,1.75,2,1.8,2.02,1.89,2.2,1.89,2.04,1.78
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Berdych T.,Chardy J.,15,71,2570,705,6,3,3,6,7,6,6,4,,,3,1,Completed,1.2,4.5,1.19,4.2,1.22,4.33,1.22,4.85,1.22,4.85,1.2,4.52
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Ofner S.,Bellucci T.,216,55,248,862,6,2,6,3,6,2,,,,,3,0,Completed,3,1.4,2.65,1.42,2.75,1.44,2.8,1.5,3.15,1.51,2.78,1.44
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Tiafoe F.,Haase R.,64,38,756,1028,6,3,3,6,7,6,7,5,,,3,1,Completed,2.62,1.5,2.55,1.45,2.62,1.5,2.85,1.49,2.95,1.52,2.65,1.47
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Thiem D.,Pospisil V.,8,73,3895,697,6,4,6,4,6,3,,,,,3,0,Completed,1.44,2.75,1.4,2.75,1.4,3,1.44,3.05,1.48,3.2,1.42,2.85
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Dimitrov G.,Schwartzman D.,11,37,3070,1085,7,6,6,2,6,2,,,,,3,0,Completed,1.06,10,1.05,7.75,1.07,8,1.08,10.44,1.09,12,1.07,8.73
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Sela D.,Granollers M.,90,112,615,505,4,6,6,3,1,6,6,2,6,1,3,2,Completed,1.28,3.75,1.28,3.35,1.33,3.4,1.33,3.69,1.34,3.85,1.3,3.52
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Isner J.,Fritz T.,21,128,1930,432,6,4,7,6,6,3,,,,,3,0,Completed,1.3,3.5,1.32,3.1,1.36,3.25,1.37,3.39,1.38,3.6,1.34,3.26
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Mannarino A.,Lopez F.,51,25,896,1675,5,7,6,1,6,1,4,3,,,2,1,Retired,4.5,1.2,4.3,1.18,4.5,1.2,4.93,1.22,5.6,1.24,4.57,1.2
+40,London,Wimbledon,04/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Donaldson J.,Tipsarevic J.,67,63,730,825,5,0,,,,,,,,,0,0,Retired,3.5,1.3,3.35,1.28,3.5,1.3,3.6,1.34,3.8,1.37,3.45,1.31
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,1st Round,5,Lorenzi P.,Zeballos H.,33,52,1188,893,7,6,4,6,7,6,7,5,,,3,1,Completed,2.3,1.61,2.15,1.62,2.2,1.67,2.2,1.76,2.3,1.76,2.16,1.7
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Bautista Agut R.,Gojowczyk P.,19,140,2155,410,6,2,6,1,3,6,6,3,,,3,1,Completed,1.2,4.5,1.15,4.75,1.14,5.5,1.18,5.65,1.21,6,1.17,5.03
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Muller G.,Rosol L.,26,214,1675,249,7,5,6,7,4,6,6,3,9,7,3,2,Completed,1.12,6,1.12,5.4,1.14,5.5,1.14,6.7,1.17,6.95,1.13,5.88
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Tsonga J.W.,Bolelli S.,10,312,3075,154,6,1,7,5,6,2,,,,,3,0,Completed,1.1,7,1.07,7,1.08,8,1.1,8.67,1.1,9.75,1.09,7.74
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Nishikori K.,Stakhovsky S.,9,122,3830,461,6,4,6,7,6,1,7,6,,,3,1,Completed,1.16,5,1.15,4.75,1.17,5,1.17,6.02,1.21,6.1,1.16,5.2
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Querrey S.,Basilashvili N.,28,54,1495,866,6,4,4,6,6,3,6,3,,,3,1,Completed,1.16,5,1.18,4.3,1.22,4.33,1.21,5,1.23,5.25,1.19,4.67
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Bedene A.,Dzumhur D.,58,83,853,635,6,3,3,6,6,3,6,3,,,3,1,Completed,1.33,3.5,1.32,3.1,1.36,3.25,1.38,3.33,1.4,3.5,1.35,3.21
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Bemelmans R.,Medvedev D.,124,49,457,922,6,4,6,2,3,6,2,6,6,3,3,2,Completed,5.5,1.14,5.2,1.13,5,1.17,6.35,1.15,6.85,1.17,5.74,1.14
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Khachanov K.,Monteiro T.,34,100,1176,544,3,6,7,6,7,6,7,5,,,3,1,Completed,1.1,7,1.09,6.25,1.11,6.5,1.12,7.73,1.12,8.75,1.1,6.97
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Cilic M.,Mayer F.,6,114,4235,500,7,6,6,4,7,5,,,,,3,0,Completed,1.1,7,1.08,6.5,1.1,7,1.09,9.35,1.11,10.75,1.09,7.66
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Johnson S.,Albot R.,31,108,1395,513,6,3,6,3,4,6,6,3,,,3,1,Completed,1.2,4.5,1.17,4.4,1.17,5,1.19,5.35,1.2,5.8,1.18,4.88
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Fognini F.,Vesely J.,29,48,1430,950,7,6,6,4,6,2,,,,,3,0,Completed,1.61,2.3,1.57,2.25,1.57,2.37,1.68,2.34,1.74,2.45,1.62,2.3
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Janowicz J.,Pouille L.,141,16,400,2570,7,6,7,6,3,6,6,1,,,3,1,Completed,3,1.4,2.95,1.35,3.25,1.36,3.49,1.36,3.55,1.41,3.11,1.37
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Anderson K.,Seppi A.,42,87,970,626,6,3,7,6,6,3,,,,,3,0,Completed,1.25,4,1.25,3.6,1.3,3.5,1.3,3.89,1.33,4,1.29,3.61
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Murray A.,Brown D.,1,97,9390,585,6,3,6,2,6,2,,,,,3,0,Completed,1.07,9,1.07,7,1.12,6,1.09,9.1,1.12,10.5,1.08,7.91
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Paire B.,Herbert P.H.,46,70,960,707,7,6,6,1,6,4,,,,,3,0,Completed,1.9,1.9,1.85,1.85,1.91,1.91,1.96,1.94,1.97,2,1.88,1.92
+40,London,Wimbledon,05/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Nadal R.,Young D.,2,43,7285,970,6,4,6,2,7,5,,,,,3,0,Completed,1.05,11,1.03,9,1.06,9,1.07,11.25,1.08,13.5,1.05,10.54
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Ferrer D.,Darcis S.,39,61,1005,831,3,0,,,,,,,,,0,0,Retired,1.4,3,1.37,2.85,1.4,3,1.45,3,1.45,3.15,1.4,2.97
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Dimitrov G.,Baghdatis M.,11,65,3070,745,6,3,6,2,6,1,,,,,3,0,Completed,1.14,5.5,1.11,5.6,1.12,6,1.13,7.04,1.15,7.25,1.13,6.03
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Sela D.,Isner J.,90,21,615,1930,6,7,7,6,5,7,7,6,6,3,3,2,Completed,4.5,1.2,4.6,1.16,5,1.17,5.42,1.19,6,1.21,5.01,1.18
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Zverev M.,Kukushkin M.,30,118,1396,465,6,1,6,2,2,6,3,6,6,4,3,2,Completed,1.2,4.5,1.18,4.3,1.22,4.33,1.22,4.85,1.24,5.05,1.2,4.53
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Gulbis E.,Del Potro J.M.,589,32,50,1325,6,4,6,4,7,6,,,,,3,0,Completed,6,1.12,5.4,1.12,5.5,1.14,6.87,1.14,7.5,1.14,6.16,1.12
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Monfils G.,Edmund K.,14,50,2695,898,7,6,6,4,6,4,,,,,3,0,Completed,1.22,4.33,1.21,3.95,1.25,4,1.24,4.65,1.25,4.9,1.22,4.27
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Djokovic N.,Pavlasek A.,4,136,6055,415,6,2,6,2,6,1,,,,,3,0,Completed,1.01,26,1.01,11.5,1.02,15,1.01,27.22,1.02,34.25,1.01,20.04
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Mannarino A.,Sugita Y.,51,44,896,967,6,1,5,7,4,6,7,6,6,2,3,2,Completed,2,1.8,1.9,1.8,2,1.8,2.04,1.87,2.05,1.95,1.97,1.83
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Thiem D.,Simon G.,8,36,3895,1095,5,7,6,4,6,2,6,4,,,3,1,Completed,1.22,4.33,1.21,3.95,1.25,4,1.24,4.65,1.25,5.05,1.23,4.26
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Berdych T.,Harrison R.,15,41,2570,993,6,4,6,3,6,7,6,3,,,3,1,Completed,1.12,6,1.11,5.6,1.14,5.5,1.13,7.05,1.17,7.75,1.12,6.24
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Raonic M.,Youzhny M.,7,82,4150,640,3,6,7,6,6,4,7,5,,,3,1,Completed,1.05,11,1.04,8.5,1.07,8,1.06,12.02,1.07,14.5,1.05,9.97
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Ramos-Vinolas A.,Rublev A.,22,95,1885,585,7,5,6,7,4,6,6,3,6,4,3,2,Completed,1.61,2.3,1.6,2.2,1.61,2.25,1.66,2.37,1.69,2.4,1.63,2.28
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Donaldson J.,Lorenzi P.,67,33,730,1188,6,4,7,6,6,7,6,2,,,3,1,Completed,1.57,2.37,1.53,2.35,1.57,2.37,1.61,2.49,1.67,2.51,1.58,2.38
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Zverev A.,Tiafoe F.,12,64,3070,756,6,3,6,4,6,3,,,,,3,0,Completed,1.08,8,1.08,6.5,1.1,7,1.11,8.3,1.11,9.5,1.08,7.93
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Federer R.,Lajovic D.,5,79,5265,661,7,6,6,3,6,2,,,,,3,0,Completed,1.01,26,1.01,11.5,1.02,15,1.01,34.05,1.02,46.75,1.01,21.21
+40,London,Wimbledon,06/07/17,Grand Slam,Outdoor,Grass,2nd Round,5,Ofner S.,Sock J.,216,18,248,2335,6,3,6,4,3,6,2,6,6,2,3,2,Completed,6,1.12,5.2,1.13,5.5,1.14,5.91,1.17,6.7,1.17,5.89,1.14
+40,London,Wimbledon,07/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Bautista Agut R.,Nishikori K.,19,9,2155,3830,6,4,7,6,3,6,6,3,,,3,1,Completed,3,1.4,2.95,1.35,3.25,1.36,3.06,1.44,3.4,1.44,3.09,1.38
+40,London,Wimbledon,07/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Muller G.,Bedene A.,26,58,1675,853,7,6,7,5,6,4,,,,,3,0,Completed,1.4,3,1.35,2.95,1.36,3,1.41,3.22,1.42,3.3,1.38,3.08
+40,London,Wimbledon,07/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Cilic M.,Johnson S.,6,31,4235,1395,6,4,7,6,6,4,,,,,3,0,Completed,1.14,5.5,1.13,5.2,1.14,5.5,1.17,6.16,1.17,6.76,1.14,5.69
+40,London,Wimbledon,07/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Paire B.,Janowicz J.,46,141,960,400,6,2,7,6,6,3,,,,,3,0,Completed,2.1,1.72,2,1.72,2.1,1.73,2.13,1.82,2.15,1.83,2.07,1.76
+40,London,Wimbledon,07/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Nadal R.,Khachanov K.,2,34,7285,1176,6,1,6,4,7,6,,,,,3,0,Completed,1.06,10,1.05,7.75,1.08,7.5,1.07,11.49,1.08,13,1.06,9.52
+40,London,Wimbledon,07/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Murray A.,Fognini F.,1,29,9390,1430,6,2,4,6,6,1,7,5,,,3,1,Completed,1.08,8,1.07,7,1.11,6.5,1.1,9.22,1.12,9.75,1.09,7.63
+40,London,Wimbledon,07/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Anderson K.,Bemelmans R.,42,124,970,457,7,6,6,4,7,6,,,,,3,0,Completed,1.11,6.5,1.11,5.6,1.12,6,1.16,6.31,1.16,6.75,1.13,6.08
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Dimitrov G.,Sela D.,11,90,3070,615,6,1,6,1,,,,,,,2,0,Retired,1.05,11,1.04,8.5,1.06,9,1.06,12.75,1.07,15,1.05,10.36
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Mannarino A.,Monfils G.,51,14,896,2695,7,6,4,6,5,7,6,3,6,2,3,2,Completed,4.5,1.2,3.95,1.21,4,1.25,4.48,1.26,5,1.26,4.36,1.22
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Raonic M.,Ramos-Vinolas A.,7,22,4150,1885,7,6,6,4,7,5,,,,,3,0,Completed,1.1,7,1.1,5.9,1.12,6,1.11,8.37,1.12,8.39,1.1,8.12
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Querrey S.,Tsonga J.W.,28,10,1495,3075,6,2,3,6,7,6,1,6,7,5,3,2,Completed,3.4,1.33,3.2,1.3,3.4,1.33,3.62,1.34,3.7,1.37,3.34,1.33
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Berdych T.,Ferrer D.,15,39,2570,1005,6,3,6,4,6,3,,,,,3,0,Completed,1.16,5,1.17,4.4,1.2,4.5,1.21,5.22,1.21,5.45,1.19,4.73
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Djokovic N.,Gulbis E.,4,589,6055,50,6,4,6,1,7,6,,,,,3,0,Completed,1.07,9,1.06,7.25,1.07,8,1.1,9.14,1.1,10.65,1.08,8.38
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Zverev A.,Ofner S.,12,216,3070,248,6,4,6,4,6,2,,,,,3,0,Completed,1.04,13,1.03,9,1.04,11,1.06,13.84,1.08,16.17,1.04,11.68
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,5,Thiem D.,Donaldson J.,8,67,3895,730,7,5,6,4,6,2,,,,,3,0,Completed,1.11,6.5,1.09,6.25,1.1,7,1.11,8.19,1.16,8.25,1.12,6.44
+40,London,Wimbledon,08/07/17,Grand Slam,Outdoor,Grass,3rd Round,3,Federer R.,Zverev M.,5,30,5265,1396,7,6,6,4,6,4,,,,,3,0,Completed,1.03,15,1.02,10,1.04,11,1.04,17.22,1.05,20.5,1.04,13.05
+40,London,Wimbledon,10/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Cilic M.,Bautista Agut R.,6,19,4235,2155,6,2,6,2,6,2,,,,,3,0,Completed,1.2,4.5,1.19,4.2,1.22,4.33,1.23,4.8,1.24,5.05,1.21,4.53
+40,London,Wimbledon,10/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Querrey S.,Anderson K.,28,42,1495,970,5,7,7,6,6,3,6,7,6,3,3,2,Completed,2.1,1.72,2,1.72,2,1.8,2.26,1.73,2.26,1.84,2.07,1.77
+40,London,Wimbledon,10/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Murray A.,Paire B.,1,46,9390,960,7,6,6,4,6,4,,,,,3,0,Completed,1.1,7,1.09,6.25,1.12,6,1.13,7.5,1.14,8.25,1.11,6.9
+40,London,Wimbledon,10/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Berdych T.,Thiem D.,15,8,2570,3895,6,3,6,7,6,3,3,6,6,3,3,2,Completed,1.8,2,1.75,1.95,1.8,2,1.84,2.1,1.91,2.1,1.83,1.98
+40,London,Wimbledon,10/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Muller G.,Nadal R.,26,2,1675,7285,6,3,6,4,3,6,4,6,15,13,3,2,Completed,6.5,1.11,5.9,1.1,6,1.12,8.03,1.12,8.75,1.12,7.05,1.11
+40,London,Wimbledon,10/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Raonic M.,Zverev A.,7,12,4150,3070,4,6,7,5,4,6,7,5,6,1,3,2,Completed,1.72,2.1,1.75,1.95,1.8,2,1.88,2.04,1.91,2.1,1.81,2.01
+40,London,Wimbledon,10/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Federer R.,Dimitrov G.,5,11,5265,3070,6,4,6,2,6,4,,,,,3,0,Completed,1.14,5.5,1.15,4.75,1.17,5,1.19,5.61,1.19,6.1,1.16,5.33
+40,London,Wimbledon,11/07/17,Grand Slam,Outdoor,Grass,4th Round,5,Djokovic N.,Mannarino A.,4,51,6055,896,6,2,7,6,6,4,,,,,3,0,Completed,1.03,15,1.02,10,1.05,10,1.05,15.55,1.05,21,1.03,12.89
+40,London,Wimbledon,12/07/17,Grand Slam,Outdoor,Grass,Quarterfinals,5,Cilic M.,Muller G.,6,26,4235,1675,3,6,7,6,7,5,5,7,6,1,3,2,Completed,1.2,4.5,1.18,4.3,1.22,4.33,1.22,4.92,1.25,5.35,1.2,4.63
+40,London,Wimbledon,12/07/17,Grand Slam,Outdoor,Grass,Quarterfinals,5,Querrey S.,Murray A.,28,1,1495,9390,3,6,6,4,6,7,6,1,6,1,3,2,Completed,5,1.16,5,1.14,5,1.17,5.57,1.19,6.1,1.2,5.29,1.16
+40,London,Wimbledon,12/07/17,Grand Slam,Outdoor,Grass,Quarterfinals,5,Federer R.,Raonic M.,5,7,5265,4150,6,4,6,2,7,6,,,,,3,0,Completed,1.2,4.5,1.18,4.3,1.22,4.33,1.21,5.14,1.23,5.45,1.2,4.7
+40,London,Wimbledon,12/07/17,Grand Slam,Outdoor,Grass,Quarterfinals,5,Berdych T.,Djokovic N.,15,4,2570,6055,7,6,2,0,,,,,,,1,0,Retired,4,1.25,4.1,1.2,4,1.25,5.17,1.21,5.17,1.28,4.27,1.23
+40,London,Wimbledon,14/07/17,Grand Slam,Outdoor,Grass,Semifinals,5,Cilic M.,Querrey S.,6,28,4235,1495,6,7,6,4,7,6,7,5,,,3,1,Completed,1.28,3.75,1.28,3.35,1.3,3.5,1.31,3.95,1.35,4.05,1.3,3.64
+40,London,Wimbledon,14/07/17,Grand Slam,Outdoor,Grass,Semifinals,5,Federer R.,Berdych T.,5,15,5265,2570,7,6,7,6,6,4,,,,,3,0,Completed,1.1,7,1.09,6.25,1.14,5.5,1.12,8.04,1.15,8.5,1.12,6.85
+40,London,Wimbledon,16/07/17,Grand Slam,Outdoor,Grass,The Final,5,Federer R.,Cilic M.,5,6,5265,4235,6,3,6,1,6,4,,,,,3,0,Completed,1.22,4.5,1.2,4.1,,,1.25,4.6,1.26,4.75,1.23,4.33

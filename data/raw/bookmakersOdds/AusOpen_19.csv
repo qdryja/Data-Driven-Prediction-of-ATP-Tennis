@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Anderson K.,Mannarino A.,6,42,4810,1045,6,3,5,7,6,2,6,1,,,3,1,Completed,1.06,10,1.05,13.28,1.08,13.28,1.06,9.96
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Basilashvili N.,Eubanks C.,20,170,1820,312,6,4,4,6,7,6,6,3,,,3,1,Completed,1.2,4.5,1.24,4.61,1.3,4.66,1.23,4.28
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Albot R.,Mmoh M.,98,107,585,526,3,6,6,3,6,4,6,2,,,3,1,Completed,2.1,1.72,2.19,1.76,2.22,1.77,2.14,1.72
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Travaglia S.,Andreozzi G.,137,77,401,708,6,7,6,2,6,3,6,2,,,3,1,Completed,1.4,3,1.45,2.97,1.5,3.02,1.44,2.82
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Verdasco F.,Kecmanovic M.,28,125,1410,458,7,6,6,3,6,3,,,,,3,0,Completed,1.5,2.62,1.5,2.81,1.5,2.9,1.47,2.72
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Cuevas P.,Lajovic D.,94,46,616,1010,6,4,7,5,6,1,,,,,3,0,Completed,3.2,1.36,3.51,1.35,3.51,1.76,3.11,1.38
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Haase R.,Garcia-Lopez G.,58,100,860,582,7,5,6,4,7,5,,,,,3,0,Completed,2.1,1.72,2.16,1.78,2.16,1.85,2.08,1.76
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Tsitsipas S.,Berrettini M.,15,54,2095,920,6,7,6,4,6,3,7,6,,,3,1,Completed,1.36,3.2,1.43,3.05,1.45,3.5,1.4,3
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Dimitrov G.,Tipsarevic J.,21,N/A,1790,N/A,4,6,6,3,6,1,6,4,,,3,1,Completed,1.06,10,1.08,10.26,1.08,13,1.06,9.97
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Tiafoe F.,Gunneswaran P.,39,109,1080,515,7,6,6,3,6,3,,,,,3,0,Completed,1.28,3.75,1.31,3.84,1.36,3.85,1.3,3.61
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Nadal R.,Duckworth J.,2,237,7480,206,6,4,6,3,7,5,,,,,3,0,Completed,1.05,11,1.05,14.44,1.06,15.45,1.04,11.64
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Fabbiano T.,Kubler J.,102,130,573,433,6,4,7,6,2,6,6,3,,,3,1,Completed,2,1.8,2.12,1.81,2.12,1.9,2.04,1.79
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Opelka R.,Isner J.,97,10,593,3155,7,6,7,6,6,7,7,6,,,3,1,Completed,2.62,1.5,2.79,1.5,2.96,1.5,2.75,1.46
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Schwartzman D.,Molleker R.,16,206,1925,246,6,1,6,3,4,6,6,0,,,3,1,Completed,1.11,6.5,1.14,6.72,1.17,7,1.13,6.2
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Evans D.,Ito T.,189,150,266,360,7,5,6,1,7,6,,,,,3,0,Completed,1.36,3.2,1.34,3.58,1.36,3.6,1.33,3.38
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Kudla D.,Polmans M.,62,169,818,317,5,7,1,6,6,2,6,3,6,2,3,2,Completed,1.28,3.75,1.28,4.14,1.33,4.15,1.27,3.84
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Khachanov K.,Gojowczyk P.,11,63,2835,805,3,6,6,3,6,4,6,3,,,3,1,Completed,1.11,6.5,1.1,8.73,1.13,8.73,1.1,7.07
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,De Minaur A.,Sousa P.,29,103,1353,550,6,4,7,5,6,4,,,,,3,0,Completed,1.04,13,1.05,13.93,1.07,13.93,1.05,11.2
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Troicki V.,Carballes Baena R.,200,75,252,714,6,1,1,6,2,6,6,1,6,4,3,2,Completed,1.3,3.5,1.37,3.41,1.4,3.6,1.34,3.32
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Mcdonald M.,Rublev A.,81,87,692,655,6,4,6,4,2,6,6,4,,,3,1,Completed,3.4,1.33,3.7,1.33,3.75,1.45,3.46,1.32
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Laaksonen H.,Basic M.,166,99,319,585,6,4,7,6,4,6,6,3,,,3,1,Completed,1.72,2.1,1.89,2.02,1.91,2.15,1.81,2.01
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Berdych T.,Edmund K.,57,14,865,2150,6,3,6,0,7,5,,,,,3,0,Completed,1.44,2.75,1.42,3.12,1.47,3.12,1.42,2.89
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Thompson J.,Lopez F.,72,66,740,770,6,1,7,6,6,3,,,,,3,0,Completed,1.33,3.4,1.33,3.68,1.36,3.72,1.31,3.49
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Ebden M.,Struff J.L.,48,51,981,945,1,6,6,4,6,3,6,4,,,3,1,Completed,2.3,1.61,2.43,1.63,2.5,1.66,2.37,1.6
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Seppi A.,Johnson S.,35,34,1170,1190,6,4,4,6,6,4,6,3,,,3,1,Completed,1.8,2,1.89,2.02,1.9,2.05,1.84,1.98
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Monfils G.,Dzumhur D.,33,47,1195,985,6,0,6,4,6,0,,,,,3,0,Completed,1.53,2.5,1.56,2.62,1.58,2.62,1.54,2.52
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Nishioka Y.,Sandgren T.,69,41,758,1058,6,4,7,6,4,6,6,4,,,3,1,Completed,1.72,2.1,1.83,2.1,1.87,2.18,1.77,2.07
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Millman J.,Delbonis F.,37,80,1108,696,6,3,3,6,7,6,6,2,,,3,1,Completed,1.25,4,1.27,4.26,1.27,4.35,1.24,4.12
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Fritz T.,Norrie C.,50,68,964,760,6,3,7,6,6,2,,,,,3,0,Completed,2,1.8,2.05,1.86,2.09,1.91,2,1.82
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Bautista Agut R.,Murray A.,24,229,1605,220,6,4,6,4,6,7,6,7,6,2,3,2,Completed,1.2,4.5,1.26,4.3,1.26,5,1.21,4.55
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Cilic M.,Tomic B.,7,88,4160,655,6,2,6,4,7,6,,,,,3,0,Completed,1.25,4,1.27,4.17,1.3,4.34,1.25,4
+6,Melbourne,Australian Open,14/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Federer R.,Istomin D.,3,101,6420,577,6,3,6,4,6,4,,,,,3,0,Completed,1.03,15,1.03,17.37,1.04,19.5,1.02,14.98
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Fognini F.,Munar J.,13,79,2315,702,7,6,7,6,3,1,,,,,2,0,Retired,1.44,2.75,1.47,2.89,1.49,2.9,1.45,2.79
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Ivashka I.,Jaziri M.,84,43,658,1042,4,6,7,6,6,1,4,0,,,2,1,Retired,1.44,2.75,1.41,3.15,1.48,3.15,1.42,2.88
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Mayer L.,Jarry N.,53,45,920,1015,7,6,7,6,4,6,6,3,,,3,1,Completed,1.8,2,1.89,2.01,1.89,2.17,1.81,2.02
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Nishikori K.,Majchrzak K.,9,176,3750,291,3,6,6,7,6,0,6,2,3,0,2,2,Retired,1.02,17,1.03,18.24,1.03,21.25,1.02,15.25
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Herbert P.H.,Querrey S.,55,49,903,975,5,7,7,6,6,3,6,1,,,3,1,Completed,2.62,1.5,2.8,1.5,2.8,1.53,2.69,1.48
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Fucsovics M.,Ramos-Vinolas A.,38,64,1094,790,6,3,6,4,6,7,6,3,,,3,1,Completed,1.2,4.5,1.2,5.3,1.24,5.3,1.2,4.66
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Harrison R.,Vesely J.,83,90,660,633,6,0,7,5,6,3,,,,,3,0,Completed,1.61,2.3,1.62,2.46,1.63,2.56,1.59,2.38
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Medvedev D.,Harris L.,19,119,1865,472,6,1,6,2,6,1,,,,,3,0,Completed,1.16,5,1.2,5.24,1.2,5.6,1.17,5.11
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Karlovic I.,Hurkacz H.,73,76,739,708,6,7,7,6,7,6,7,6,,,3,1,Completed,1.8,2,1.74,2.22,1.87,2.22,1.79,2.05
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Coric B.,Darcis S.,12,321,2435,90,6,1,6,4,6,4,,,,,3,0,Completed,1.14,5.5,1.2,5.22,1.2,6,1.16,5.37
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Chung H.,Klahn B.,25,78,1585,704,6,7,6,7,6,3,6,2,6,4,3,2,Completed,1.44,2.75,1.58,2.54,1.59,2.75,1.52,2.54
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Bolt A.,Sock J.,155,105,343,540,4,6,6,3,6,2,6,2,,,3,1,Completed,3.2,1.36,3.23,1.4,3.36,1.4,3.17,1.36
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Sousa J.,Pella G.,44,65,1017,790,7,6,4,6,7,6,4,6,6,2,3,2,Completed,1.72,2.1,1.81,2.12,1.93,2.3,1.77,2.07
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Carreno Busta P.,Vanni L.,23,163,1705,325,6,7,2,6,6,3,7,5,6,4,3,2,Completed,1.28,3.75,1.3,3.9,1.3,4.2,1.28,3.74
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Donskoy E.,Djere L.,96,92,599,627,6,7,6,4,6,1,7,6,,,3,1,Completed,2.1,1.72,2.02,1.89,2.13,2.2,2,1.83
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Simon G.,Fratangelo B.,30,133,1280,421,7,6,6,4,6,2,,,,,3,0,Completed,1.28,3.75,1.25,4.43,1.28,4.57,1.24,4.08
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Zverev A.,Bedene A.,4,67,6385,760,6,4,6,1,6,4,,,,,3,0,Completed,1.1,7,1.13,7,1.13,7.6,1.11,6.62
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Goffin D.,Garin C.,22,89,1785,650,6,0,6,2,6,2,,,,,3,0,Completed,1.14,5.5,1.21,5.14,1.22,5.95,1.17,5.19
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Shapovalov D.,Andujar P.,27,85,1440,658,6,2,6,3,7,6,,,,,3,0,Completed,1.11,6.5,1.11,7.93,1.14,7.93,1.11,6.89
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Daniel T.,Kokkinakis T.,82,144,691,379,5,7,4,2,,,,,,,0,1,Retired,4,1.25,3.87,1.3,4.1,1.31,3.8,1.28
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Pouille L.,Kukushkin M.,31,56,1245,890,6,1,7,5,6,4,,,,,3,0,Completed,1.57,2.37,1.64,2.42,1.65,2.7,1.6,2.37
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Copil M.,Granollers M.,60,108,823,525,6,3,6,4,6,4,,,,,3,0,Completed,1.57,2.37,1.65,2.4,1.67,2.41,1.62,2.33
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Kohlschreiber P.,Li Z.,32,261,1215,173,6,2,6,2,6,4,,,,,3,0,Completed,1.03,15,1.05,13.48,1.08,17,1.04,11.78
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Tsonga J.W.,Klizan M.,177,40,290,1063,6,4,6,4,7,6,,,,,3,0,Completed,1.28,3.75,1.32,3.72,1.32,3.76,1.3,3.64
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Chardy J.,Humbert U.,36,95,1120,613,3,6,7,6,6,4,6,7,7,6,3,2,Completed,1.57,2.37,1.62,2.46,1.67,2.51,1.59,2.39
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Krajinovic F.,Cecchinato M.,93,18,620,1889,4,6,0,6,6,1,7,6,6,4,3,2,Completed,1.57,2.37,1.67,2.36,1.7,2.4,1.64,2.29
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Popyrin A.,Zverev M.,149,70,360,746,7,5,7,6,6,4,,,,,3,0,Completed,1.44,2.75,1.47,2.92,1.52,3.05,1.44,2.82
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Wawrinka S.,Gulbis E.,59,86,830,657,3,6,3,1,,,,,,,0,1,Retired,1.25,4,1.25,4.42,1.29,4.68,1.25,4.1
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Marterer M.,Sakharov G.,71,252,744,186,6,3,6,1,6,3,,,,,3,0,Completed,1.33,3.4,1.32,3.74,1.33,3.79,1.31,3.53
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Djokovic N.,Krueger M.,1,230,9135,216,6,3,6,2,6,2,,,,,3,0,Completed,1.005,29,1.01,26.44,1.01,32.5,1.01,21.57
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Raonic M.,Kyrgios N.,17,52,1900,920,6,4,7,6,6,4,,,,,3,0,Completed,1.8,2,1.81,2.11,1.85,2.17,1.77,2.07
+6,Melbourne,Australian Open,15/01/2019,Grand Slam,Outdoor,Hard,1st Round,5,Thiem D.,Paire B.,8,61,4095,820,6,4,6,3,5,7,1,6,6,3,3,2,Completed,1.28,3.75,1.29,4.05,1.32,4.2,1.29,3.68
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Schwartzman D.,Kudla D.,16,62,1925,818,6,4,7,5,3,6,6,7,6,4,3,2,Completed,1.16,5,1.19,5.42,1.25,5.42,1.19,4.84
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Basilashvili N.,Travaglia S.,20,137,1820,401,3,6,6,3,3,6,6,4,6,3,3,2,Completed,1.28,3.75,1.31,3.8,1.32,3.98,1.29,3.69
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Tsitsipas S.,Troicki V.,15,200,2095,252,6,3,2,6,6,2,7,5,,,3,1,Completed,1.11,6.5,1.12,7.55,1.15,7.55,1.12,6.45
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Seppi A.,Thompson J.,35,72,1170,740,6,3,6,4,6,4,,,,,3,0,Completed,1.66,2.2,1.74,2.22,1.77,2.4,1.69,2.19
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Berdych T.,Haase R.,57,58,865,860,6,1,6,3,6,3,,,,,3,0,Completed,1.12,6,1.11,7.98,1.15,7.98,1.11,6.68
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Cilic M.,Mcdonald M.,7,81,4160,692,7,5,6,7,6,4,6,4,,,3,1,Completed,1.1,7,1.11,8.27,1.12,9.9,1.1,7.45
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Tiafoe F.,Anderson K.,39,6,1080,4810,4,6,6,4,6,4,7,5,,,3,1,Completed,5,1.16,5.45,1.19,5.59,1.2,4.98,1.18
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Verdasco F.,Albot R.,28,98,1410,585,6,1,7,6,6,3,,,,,3,0,Completed,1.2,4.5,1.24,4.56,1.24,4.85,1.22,4.41
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Federer R.,Evans D.,3,189,6420,266,7,6,7,6,6,3,,,,,3,0,Completed,1.02,17,1.02,23.78,1.03,23.78,1.02,15.48
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Fritz T.,Monfils G.,50,33,964,1195,6,3,6,7,7,6,7,6,,,3,1,Completed,2.37,1.57,2.46,1.62,2.51,1.65,2.37,1.6
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Khachanov K.,Nishioka Y.,11,69,2835,758,6,3,6,3,6,3,,,,,3,0,Completed,1.22,4.33,1.24,4.58,1.25,4.62,1.22,4.36
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Fabbiano T.,Opelka R.,102,97,573,593,6,7,6,2,6,4,3,6,7,6,3,2,Completed,3.4,1.33,3.37,1.37,3.4,1.4,3.25,1.35
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Bautista Agut R.,Millman J.,24,37,1605,1108,6,3,6,1,3,6,6,7,6,4,3,2,Completed,1.33,3.4,1.34,3.63,1.36,3.7,1.32,3.46
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Dimitrov G.,Cuevas P.,21,94,1790,616,6,3,6,7,6,3,7,5,,,3,1,Completed,1.12,6,1.15,6.36,1.16,6.9,1.13,6.03
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,De Minaur A.,Laaksonen H.,29,166,1353,319,6,4,6,2,6,7,4,6,6,3,3,2,Completed,1.04,13,1.06,12.94,1.06,13,1.05,10.7
+6,Melbourne,Australian Open,16/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Nadal R.,Ebden M.,2,48,7480,981,6,3,6,2,6,2,,,,,3,0,Completed,1.06,10,1.05,13.8,1.07,13.8,1.06,9.92
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Nishikori K.,Karlovic I.,9,73,3750,739,6,3,7,6,5,7,5,7,7,6,3,2,Completed,1.16,5,1.17,5.91,1.19,5.91,1.16,5.25
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Raonic M.,Wawrinka S.,17,59,1900,830,6,7,7,6,7,6,7,6,,,3,1,Completed,1.3,3.5,1.33,3.68,1.35,4,1.29,3.64
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Sousa J.,Kohlschreiber P.,44,32,1017,1215,7,5,4,6,7,6,5,7,6,4,3,2,Completed,3,1.4,3.1,1.43,3.12,1.44,2.95,1.41
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Carreno Busta P.,Ivashka I.,23,84,1705,658,6,2,6,3,7,6,,,,,3,0,Completed,1.61,2.3,1.68,2.32,1.69,2.4,1.63,2.3
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Coric B.,Fucsovics M.,12,38,2435,1094,6,4,6,3,6,4,,,,,3,0,Completed,1.28,3.75,1.31,3.86,1.32,3.9,1.29,3.69
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Fognini F.,Mayer L.,13,53,2315,920,7,6,6,3,7,6,,,,,3,0,Completed,1.57,2.37,1.62,2.45,1.68,2.7,1.6,2.37
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Herbert P.H.,Chung H.,55,25,903,1585,6,2,1,6,6,2,6,4,,,3,1,Completed,2.3,1.61,2.28,1.71,2.44,1.71,2.28,1.65
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Krajinovic F.,Donskoy E.,93,96,620,599,6,4,7,6,7,6,,,,,3,0,Completed,1.4,3,1.4,3.23,1.45,3.23,1.39,3.05
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Goffin D.,Copil M.,22,60,1785,823,5,7,7,5,6,2,6,4,,,3,1,Completed,1.2,4.5,1.25,4.48,1.25,5,1.22,4.46
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Bolt A.,Simon G.,155,30,343,1280,2,6,6,4,4,6,7,6,6,4,3,2,Completed,5.5,1.14,6.87,1.14,6.87,1.2,5.94,1.14
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Pouille L.,Marterer M.,31,71,1245,744,7,6,7,6,5,7,6,4,,,3,1,Completed,1.72,2.1,1.75,2.2,1.83,2.3,1.73,2.14
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Shapovalov D.,Daniel T.,27,82,1440,691,6,3,7,6,6,3,,,,,3,0,Completed,1.14,5.5,1.17,5.77,1.17,6.23,1.15,5.59
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Popyrin A.,Thiem D.,149,8,360,4095,7,5,6,4,2,0,,,,,2,0,Retired,5.5,1.14,5.03,1.21,5.75,1.21,5.04,1.18
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Medvedev D.,Harrison R.,19,83,1865,660,6,3,6,3,6,3,,,,,3,0,Completed,1.16,5,1.23,4.69,1.23,5.05,1.2,4.66
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Zverev A.,Chardy J.,4,36,6385,1120,7,6,6,4,5,7,6,7,6,1,3,2,Completed,1.11,6.5,1.12,7.62,1.13,7.75,1.12,6.58
+6,Melbourne,Australian Open,17/01/2019,Grand Slam,Outdoor,Hard,2nd Round,5,Djokovic N.,Tsonga J.W.,1,177,9135,290,6,3,7,5,6,4,,,,,3,0,Completed,1.06,10,1.07,11,1.07,11.36,1.06,9.59
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Tsitsipas S.,Basilashvili N.,15,20,2095,1820,6,3,3,6,7,6,6,4,,,3,1,Completed,1.36,3.2,1.35,3.5,1.4,3.5,1.35,3.27
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Berdych T.,Schwartzman D.,57,16,865,1925,5,7,6,3,7,5,6,4,,,3,1,Completed,1.25,4,1.26,4.38,1.3,5.5,1.26,4.04
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Federer R.,Fritz T.,3,50,6420,964,6,2,7,5,6,2,,,,,3,0,Completed,1.06,10,1.06,12.48,1.07,13.49,1.05,10.47
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Tiafoe F.,Seppi A.,39,35,1080,1170,6,7,6,3,4,6,6,4,6,3,3,2,Completed,2,1.8,2.06,1.85,2.18,1.95,2.03,1.81
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Dimitrov G.,Fabbiano T.,21,102,1790,573,7,6,6,4,6,4,,,,,3,0,Completed,1.07,9,1.07,11.56,1.09,11.56,1.07,9.13
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Bautista Agut R.,Khachanov K.,24,11,1605,2835,6,4,7,5,6,4,,,,,3,0,Completed,2.62,1.5,2.74,1.52,2.75,1.57,2.6,1.51
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Nadal R.,De Minaur A.,2,29,7480,1353,6,1,6,2,6,4,,,,,3,0,Completed,1.1,7,1.11,8.03,1.12,9.25,1.1,7.13
+6,Melbourne,Australian Open,18/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Cilic M.,Verdasco F.,7,28,4160,1410,4,6,3,6,6,1,7,6,6,3,3,2,Completed,1.28,3.75,1.31,3.79,1.32,3.9,1.3,3.63
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Medvedev D.,Goffin D.,19,22,1865,1785,6,2,7,6,6,3,,,,,3,0,Completed,1.61,2.3,1.63,2.44,1.65,2.7,1.59,2.39
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Nishikori K.,Sousa J.,9,44,3750,1017,7,6,6,1,6,2,,,,,3,0,Completed,1.14,5.5,1.17,5.91,1.18,7.1,1.15,5.67
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Carreno Busta P.,Fognini F.,23,13,1705,2315,6,2,6,4,2,6,6,4,,,3,1,Completed,2.1,1.72,2.12,1.81,2.17,1.87,2.08,1.77
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Raonic M.,Herbert P.H.,17,55,1900,903,6,4,6,4,7,6,,,,,3,0,Completed,1.16,5,1.19,5.44,1.19,5.8,1.17,5.28
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Djokovic N.,Shapovalov D.,1,27,9135,1440,6,3,6,4,4,6,6,0,,,3,1,Completed,1.05,11,1.05,14.37,1.06,14.37,1.04,11.58
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Coric B.,Krajinovic F.,12,93,2435,620,2,6,6,3,6,4,6,3,,,3,1,Completed,1.12,6,1.16,6.03,1.18,6.34,1.16,5.44
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Zverev A.,Bolt A.,4,155,6385,343,6,3,6,3,6,2,,,,,3,0,Completed,1.04,13,1.05,14.2,1.1,15,1.05,10.63
+6,Melbourne,Australian Open,19/01/2019,Grand Slam,Outdoor,Hard,3rd Round,5,Pouille L.,Popyrin A.,31,149,1245,360,7,6,6,3,6,7,4,6,6,3,3,2,Completed,1.44,2.75,1.54,2.67,1.54,2.8,1.49,2.67
+6,Melbourne,Australian Open,20/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Tiafoe F.,Dimitrov G.,39,21,1080,1790,7,5,7,6,6,7,7,5,,,3,1,Completed,3,1.4,3.23,1.41,3.23,1.45,3.02,1.4
+6,Melbourne,Australian Open,20/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Nadal R.,Berdych T.,2,57,7480,865,6,0,6,1,7,6,,,,,3,0,Completed,1.14,5.5,1.18,5.85,1.19,6,1.16,5.3
+6,Melbourne,Australian Open,20/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Bautista Agut R.,Cilic M.,24,7,1605,4160,6,7,6,3,6,2,4,6,6,4,3,2,Completed,2.1,1.72,2.22,1.76,2.25,1.77,2.15,1.72
+6,Melbourne,Australian Open,20/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Tsitsipas S.,Federer R.,15,3,2095,6420,6,7,7,6,7,5,7,6,,,3,1,Completed,5.5,1.14,5.67,1.19,6,1.19,5.42,1.16
+6,Melbourne,Australian Open,21/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Raonic M.,Zverev A.,17,4,1900,6385,6,1,6,1,7,6,,,,,3,0,Completed,2.2,1.66,2.19,1.78,2.4,1.8,2.13,1.74
+6,Melbourne,Australian Open,21/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Pouille L.,Coric B.,31,12,1245,2435,6,7,6,4,7,5,7,6,,,3,1,Completed,4,1.25,4.05,1.29,4.33,1.35,3.83,1.27
+6,Melbourne,Australian Open,21/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Nishikori K.,Carreno Busta P.,9,23,3750,1705,6,7,4,6,7,6,6,4,7,6,3,2,Completed,1.2,4.5,1.22,5.01,1.23,5.05,1.21,4.62
+6,Melbourne,Australian Open,21/01/2019,Grand Slam,Outdoor,Hard,4th Round,5,Djokovic N.,Medvedev D.,1,19,9135,1865,6,4,6,7,6,2,6,3,,,3,1,Completed,1.11,6.5,1.15,6.79,1.15,7,1.13,6.4
+6,Melbourne,Australian Open,22/01/2019,Grand Slam,Outdoor,Hard,Quarterfinals,5,Tsitsipas S.,Bautista Agut R.,15,24,2095,1605,7,5,4,6,6,4,7,6,,,3,1,Completed,2,1.8,2.06,1.87,2.1,2,1.98,1.86
+6,Melbourne,Australian Open,22/01/2019,Grand Slam,Outdoor,Hard,Quarterfinals,5,Nadal R.,Tiafoe F.,2,39,7480,1080,6,3,6,4,6,2,,,,,3,0,Completed,1.04,13,1.06,12.68,1.06,15,1.05,11.47
+6,Melbourne,Australian Open,23/01/2019,Grand Slam,Outdoor,Hard,Quarterfinals,5,Pouille L.,Raonic M.,31,17,1245,1900,7,6,6,3,6,7,6,4,,,3,1,Completed,5.5,1.14,6.46,1.16,6.46,1.2,5.54,1.16
+6,Melbourne,Australian Open,23/01/2019,Grand Slam,Outdoor,Hard,Quarterfinals,5,Djokovic N.,Nishikori K.,1,9,9135,3750,6,1,4,1,,,,,,,1,0,Retired,1.08,8,1.12,7.75,1.12,9,1.1,7.62
+6,Melbourne,Australian Open,24/01/2019,Grand Slam,Outdoor,Hard,Semifinals,5,Nadal R.,Tsitsipas S.,2,15,7480,2095,6,2,6,4,6,0,,,,,3,0,Completed,1.16,5,1.21,5.14,1.22,5.8,1.18,5.19
+6,Melbourne,Australian Open,25/01/2019,Grand Slam,Outdoor,Hard,Semifinals,5,Djokovic N.,Pouille L.,1,31,9135,1245,6,0,6,2,6,2,,,,,3,0,Completed,1.05,11,1.07,11.6,1.1,13.05,1.06,10.45
+6,Melbourne,Australian Open,27/01/2019,Grand Slam,Outdoor,Hard,The Final,5,Djokovic N.,Nadal R.,1,2,9135,7480,6,3,6,2,6,3,,,,,3,0,Completed,1.74,2.15,1.77,2.2,1.84,2.3,1.75,2.15

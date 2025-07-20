@@ -1,0 +1,128 @@
+ATP,Location,Tournament,Date,Series,Court,Surface,Round,Best of,Winner,Loser,WRank,LRank,WPts,LPts,W1,L1,W2,L2,W3,L3,W4,L4,W5,L5,Wsets,Lsets,Comment,B365W,B365L,PSW,PSL,MaxW,MaxL,AvgW,AvgL
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Bonzi B.,Ruusuvuori E.,227,93,239,686,6,2,6,4,4,6,6,4,,,3,1,Completed,3,1.4,3.03,1.44,3.2,1.45,2.89,1.42
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Korda S.,Seppi A.,213,98,252,679,6,2,4,6,6,3,6,3,,,3,1,Completed,1.44,2.75,1.45,3,1.46,3.05,1.43,2.83
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Sinner J.,Goffin D.,75,13,788,2555,7,5,6,0,6,3,,,,,3,0,Completed,1.9,1.9,2.16,1.78,2.16,1.92,1.97,1.84
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Fritz T.,Machac T.,30,253,1625,205,7,5,7,6,1,6,2,6,6,3,3,2,Completed,1.4,3,1.43,3.05,1.43,3.25,1.39,3.03
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Nishikori K.,Evans D.,35,34,1345,1384,1,6,6,1,7,6,1,6,6,4,3,2,Completed,1.57,2.37,1.6,2.5,1.66,2.79,1.52,2.56
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Coria F.,Jung J.,99,125,671,464,7,5,7,6,7,6,,,,,3,0,Completed,1.28,3.75,1.35,3.51,1.35,3.75,1.31,3.44
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Rodionov J.,Chardy J.,170,65,338,860,3,6,4,6,7,6,6,4,10,8,3,2,Completed,2,1.8,2,1.91,2.03,1.94,1.94,1.87
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Travaglia S.,Andujar P.,74,51,794,1024,6,3,6,4,6,4,,,,,3,0,Completed,2.2,1.66,2.24,1.73,2.29,1.75,2.15,1.71
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Isner J.,Benchetrit E.,23,217,1805,249,6,4,6,1,6,3,,,,,3,0,Completed,1.25,4,1.29,4,1.29,4.63,1.25,4.01
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Cecchinato M.,De Minaur A.,110,28,551,1665,7,6,6,4,6,0,,,,,3,0,Completed,1.72,2.1,1.71,2.27,1.82,2.27,1.71,2.15
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Gombos N.,Coric B.,106,27,587,1670,6,4,3,6,6,3,6,4,,,3,1,Completed,6,1.12,7.61,1.12,7.61,1.14,6.6,1.11
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Koepfer D.,Hoang A.,61,126,886,462,6,2,3,6,6,1,6,1,,,3,1,Completed,1.28,3.75,1.34,3.56,1.36,3.8,1.3,3.54
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Albot R.,Thompson J.,79,55,772,984,6,2,6,4,6,1,,,,,3,0,Completed,2.5,1.53,2.73,1.52,2.73,1.55,2.58,1.51
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Paire B.,Kwon S.W.,26,82,1738,752,7,5,6,4,6,4,,,,,3,0,Completed,2.1,1.72,2.27,1.71,2.27,1.75,2.19,1.68
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Londero J.I.,Delbonis F.,69,81,832,758,6,4,7,6,2,6,1,6,14,12,3,2,Completed,2.2,1.66,2.34,1.68,2.37,1.69,2.27,1.64
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Wawrinka S.,Murray A.,17,111,2185,547,6,1,6,3,6,2,,,,,3,0,Completed,1.33,3.4,1.39,3.28,1.4,3.52,1.34,3.29
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Schwartzman D.,Kecmanovic M.,14,41,2505,1258,6,0,6,1,6,3,,,,,3,0,Completed,1.2,4.5,1.22,4.81,1.22,5,1.2,4.56
+22,Paris,French Open,27/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Zverev A.,Novak D.,7,92,4650,698,7,5,6,2,6,4,,,,,3,0,Completed,1.08,8,1.07,10.95,1.09,13,1.07,9.2
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Thiem D.,Cilic M.,3,40,9125,1270,6,4,6,3,6,3,,,,,3,0,Completed,1.1,7,1.1,8.87,1.12,8.87,1.1,7.2
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Nishioka Y.,Auger-Aliassime F.,52,22,1017,1976,7,5,6,3,6,3,,,,,3,0,Completed,4.5,1.2,5.16,1.2,5.16,1.23,4.58,1.2
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Sock J.,Opelka R.,310,36,140,1312,6,4,6,4,6,3,,,,,3,0,Completed,1.53,2.5,1.53,2.68,1.57,2.85,1.51,2.56
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Gaston H.,Janvier M.,239,204,215,270,7,6,6,4,6,3,,,,,3,0,Completed,1.33,3.4,1.38,3.35,1.42,3.4,1.37,3.11
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Martinez P.,Vukic A.,105,193,610,287,7,5,6,4,6,0,,,,,3,0,Completed,1.25,4,1.27,4.18,1.28,4.33,1.25,4.01
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Herbert P.H.,Mmoh M.,78,178,775,326,6,3,6,2,6,3,,,,,3,0,Completed,1.57,2.37,1.59,2.52,1.63,2.55,1.58,2.4
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Kukushkin M.,Fognini F.,88,15,716,2400,7,5,3,6,7,6,6,0,,,3,1,Completed,3.2,1.36,3.33,1.38,3.33,1.42,3.13,1.36
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Sonego L.,Gomez E.,46,156,1075,365,6,7,6,3,6,1,6,7,6,3,3,2,Completed,1.28,3.75,1.35,3.53,1.36,3.76,1.31,3.44
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Paul T.,Duckworth J.,58,91,949,699,6,2,6,3,6,2,,,,,3,0,Completed,1.22,4.33,1.2,5.17,1.25,5.45,1.19,4.8
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Mcdonald M.,Diez S.,236,181,217,322,4,6,6,3,6,3,6,4,,,3,1,Completed,2.75,1.44,3.05,1.43,3.1,1.47,2.82,1.44
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Giustino L.,Moutet C.,157,71,363,818,0,6,7,6,7,6,2,6,18,16,3,2,Completed,2.2,1.66,5.21,1.2,5.3,1.24,4.77,1.19
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Vesely J.,Broady L.,68,207,840,260,6,2,5,7,6,3,6,2,,,3,1,Completed,1.3,3.5,1.4,3.22,1.43,4,1.34,3.32
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Struff J.L.,Tiafoe F.,32,67,1450,845,3,6,7,6,6,3,6,7,6,3,3,2,Completed,1.5,2.62,1.5,2.8,1.53,2.8,1.49,2.63
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Pella G.,Caruso S.,37,85,1310,742,7,6,6,7,7,5,6,4,,,3,1,Completed,1.72,2.1,1.71,2.28,1.83,2.28,1.75,2.08
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Ruud C.,Sugita Y.,25,94,1739,686,6,1,6,3,6,1,,,,,3,0,Completed,1.03,15,1.06,12.22,1.06,19,1.04,11.83
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Milojevic N.,Krajinovic F.,144,29,392,1628,6,4,3,6,6,3,6,1,,,3,1,Completed,8,1.08,10.03,1.08,10.2,1.09,8.35,1.07
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Bublik A.,Monfils G.,49,9,1045,2860,6,4,7,5,3,6,6,3,,,3,1,Completed,2.1,1.72,2.3,1.69,2.3,1.75,2.14,1.71
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Nadal R.,Gerasimov E.,2,83,9850,750,6,4,6,4,6,2,,,,,3,0,Completed,0.971,34,1.01,30.08,1.02,35,1.01,22.68
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Bedene A.,Rinderknech A.,56,162,965,354,6,2,6,7,6,4,6,4,,,3,1,Completed,1.33,3.4,1.42,3.11,1.42,3.41,1.37,3.12
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Sandgren T.,Hurkacz H.,47,31,1068,1468,7,5,2,6,4,6,7,6,11,9,3,2,Completed,3,1.4,3.12,1.42,3.24,1.44,2.98,1.4
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Galan D.,Norrie C.,153,72,379,807,4,6,6,3,5,7,6,1,6,1,3,2,Completed,1.72,2.1,1.77,2.18,1.77,2.23,1.71,2.15
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Ramos-Vinolas A.,Mannarino A.,44,39,1130,1271,6,4,6,3,6,0,,,,,3,0,Completed,1.44,2.75,1.45,2.97,1.46,2.97,1.43,2.85
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Khachanov K.,Majchrzak K.,16,100,2200,650,7,6,6,3,6,3,,,,,3,0,Completed,1.3,3.5,1.35,3.5,1.38,3.56,1.32,3.37
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Altmaier D.,Lopez F.,186,57,302,953,7,6,6,4,6,4,,,,,3,0,Completed,1.44,2.75,1.47,2.9,1.5,2.92,1.46,2.72
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Fucsovics M.,Medvedev D.,63,5,877,5890,6,4,7,6,2,6,6,1,,,3,1,Completed,4.33,1.22,4.89,1.22,4.89,1.23,4.43,1.21
+22,Paris,French Open,28/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Carreno Busta P.,Millman J.,18,43,2130,1166,6,3,6,2,7,5,,,,,3,0,Completed,1.28,3.75,1.27,4.19,1.32,4.25,1.26,3.87
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Harris L.,Popyrin A.,90,108,701,576,6,4,6,4,7,6,,,,,3,0,Completed,1.9,1.9,2.03,1.88,2.03,1.95,1.93,1.88
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Berrettini M.,Pospisil V.,8,76,3030,777,6,3,6,1,6,3,,,,,3,0,Completed,1.11,6.5,1.11,8.1,1.12,8.3,1.1,7.02
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Garin C.,Kohlschreiber P.,19,86,2090,729,6,4,4,6,6,1,6,4,,,3,1,Completed,1.14,5.5,1.17,5.87,1.18,6.15,1.15,5.43
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Polmans M.,Humbert U.,122,38,485,1286,6,2,6,2,3,6,6,3,,,3,1,Completed,6.5,1.11,6.62,1.14,7.45,1.14,6.32,1.12
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Davidovich Fokina A.,Mayot H.,70,412,829,88,7,6,6,3,7,5,,,,,3,0,Completed,1.14,5.5,1.14,6.65,1.16,6.9,1.13,5.97
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Lajovic D.,Mager G.,24,89,1785,713,6,4,7,6,4,6,6,1,,,3,1,Completed,1.12,6,1.15,6.35,1.17,7.45,1.12,6.24
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Anderson K.,Djere L.,118,73,510,797,6,2,6,3,6,4,,,,,3,0,Completed,2.75,1.44,2.82,1.49,3.08,1.5,2.78,1.44
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Berankis R.,Dellien H.,66,104,854,638,6,1,6,4,6,4,,,,,3,0,Completed,2.62,1.5,2.61,1.56,2.7,1.57,2.56,1.51
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Giron M.,Halys Q.,96,202,684,274,7,5,3,6,6,7,7,5,8,6,3,2,Completed,1.72,2.1,1.88,2.03,1.91,2.1,1.83,1.98
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Rublev A.,Querrey S.,12,48,2614,1055,6,7,6,7,7,5,6,4,6,3,3,2,Completed,1.06,10,1.06,12.92,1.06,14.5,1.05,11.62
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Djokovic N.,Ymer M.,1,80,11260,763,6,0,6,2,6,3,,,,,3,0,Completed,1.01,23,1.01,30.79,1.02,35,1.01,21.63
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Carballes Baena R.,Johnson S.,101,64,649,870,6,1,6,1,6,0,,,,,3,0,Completed,1.53,2.5,1.59,2.52,1.62,2.63,1.54,2.5
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Balazs A.,Uchiyama Y.,87,95,722,685,6,2,6,3,7,5,,,,,3,0,Completed,1.33,3.4,1.41,3.16,1.41,3.41,1.35,3.22
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Cuevas P.,Laaksonen H.,60,135,907,435,6,1,2,6,6,4,6,2,,,3,1,Completed,1.44,2.75,1.49,2.84,1.51,2.98,1.47,2.71
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Monteiro T.,Basilashvili N.,84,33,749,1395,7,5,6,4,6,2,,,,,3,0,Completed,1.4,3,1.44,3.02,1.45,3.2,1.4,2.95
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Tsitsipas S.,Munar J.,6,109,5385,563,4,6,2,6,6,1,6,4,6,4,3,2,Completed,1.08,8,1.12,7.61,1.14,8.1,1.1,6.91
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Shapovalov D.,Simon G.,11,54,2660,1005,6,2,7,5,5,7,6,3,,,3,1,Completed,1.12,6,1.13,7.11,1.14,7.5,1.12,6.36
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Dimitrov G.,Barrere G.,20,103,2055,647,6,3,6,2,6,2,,,,,3,0,Completed,1.12,6,1.14,6.92,1.15,6.92,1.13,6.13
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Bautista Agut R.,Gasquet R.,10,50,2665,1030,7,6,6,2,6,1,,,,,3,0,Completed,1.16,5,1.17,5.95,1.2,5.95,1.17,5.16
+22,Paris,French Open,29/09/2020,Grand Slam,Outdoor,Clay,1st Round,5,Martin A.,Sousa J.,102,77,649,776,7,5,6,1,6,2,,,,,3,0,Completed,1.5,2.62,1.53,2.71,1.56,2.71,1.5,2.61
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Korda S.,Isner J.,213,23,252,1805,6,4,6,4,2,6,6,4,,,3,1,Completed,2.62,1.5,2.52,1.59,2.69,1.61,2.49,1.54
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Fritz T.,Albot R.,30,79,1625,772,6,3,6,2,6,4,,,,,3,0,Completed,1.5,2.62,1.56,2.6,1.59,2.69,1.52,2.54
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Wawrinka S.,Koepfer D.,17,61,2185,886,6,3,6,2,3,6,6,1,,,3,1,Completed,1.28,3.75,1.29,3.97,1.3,4.2,1.27,3.78
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Gaston H.,Nishioka Y.,239,52,215,1017,6,4,7,6,3,6,6,2,,,3,1,Completed,3.5,1.3,3.82,1.31,3.85,1.33,3.54,1.3
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Schwartzman D.,Giustino L.,14,157,2505,363,6,1,7,5,6,0,,,,,3,0,Completed,1.02,19,1.01,29.04,1.02,35,1.01,19.32
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Gombos N.,Rodionov J.,106,170,587,338,6,2,2,6,7,6,6,4,,,3,1,Completed,1.4,3,1.47,2.93,1.47,3,1.44,2.82
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Thiem D.,Sock J.,3,310,9125,140,6,1,6,3,7,6,,,,,3,0,Completed,1.05,11,1.05,14.7,1.08,17,1.04,12.09
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Nadal R.,Mcdonald M.,2,236,9850,217,6,1,6,0,6,3,,,,,3,0,Completed,1.01,26,0.974,36.86,1.02,36.86,1.01,22.51
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Martinez P.,Kukushkin M.,105,88,610,716,6,3,6,1,6,0,,,,,3,0,Completed,1.44,2.75,1.48,2.88,1.54,2.88,1.46,2.73
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Travaglia S.,Nishikori K.,74,35,794,1345,6,4,2,6,7,6,4,6,6,2,3,2,Completed,1.66,2.2,1.73,2.24,1.75,2.35,1.68,2.2
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Sonego L.,Bublik A.,46,49,1075,1045,7,6,6,1,7,5,,,,,3,0,Completed,2.37,1.57,2.34,1.68,2.41,1.7,2.28,1.63
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Ruud C.,Paul T.,25,58,1739,949,6,1,1,6,6,3,1,6,6,3,3,2,Completed,1.2,4.5,1.19,5.4,1.22,5.5,1.18,4.88
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Coria F.,Paire B.,99,26,671,1738,7,6,4,6,6,3,6,1,,,3,1,Completed,2,1.8,1.99,1.92,2.04,1.93,1.97,1.84
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Zverev A.,Herbert P.H.,7,78,4650,775,2,6,6,4,7,6,4,6,6,4,3,2,Completed,1.1,7,1.13,7.21,1.14,8,1.11,6.8
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Cecchinato M.,Londero J.I.,110,69,551,832,6,3,6,2,5,7,6,2,,,3,1,Completed,1.25,4,1.34,3.6,1.35,4,1.32,3.41
+22,Paris,French Open,30/09/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Sinner J.,Bonzi B.,75,227,788,239,6,2,6,4,6,4,,,,,3,0,Completed,1.08,8,1.11,8.06,1.11,17,1.09,7.75
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Carballes Baena R.,Shapovalov D.,101,11,649,2660,7,5,6,7,6,3,3,6,8,6,3,2,Completed,5,1.16,4.64,1.24,5.5,1.27,4.52,1.2
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Fucsovics M.,Ramos-Vinolas A.,63,44,877,1130,7,6,6,3,7,5,,,,,3,0,Completed,1.44,2.75,1.48,2.86,1.49,2.95,1.44,2.79
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Garin C.,Polmans M.,19,122,2090,485,6,7,6,2,7,6,6,4,,,3,1,Completed,1.16,5,1.1,8.82,1.16,9.3,1.09,7.51
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Monteiro T.,Giron M.,84,96,749,684,7,6,6,4,6,1,,,,,3,0,Completed,1.2,4.5,1.24,4.54,1.27,5,1.23,4.24
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Khachanov K.,Vesely J.,16,68,2200,840,6,1,6,7,7,6,7,6,,,3,1,Completed,1.25,4,1.31,3.84,1.31,4.2,1.27,3.79
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Altmaier D.,Struff J.L.,186,32,302,1450,6,3,7,6,6,3,,,,,3,0,Completed,3.2,1.36,3.21,1.4,3.3,1.45,3.11,1.37
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Dimitrov G.,Martin A.,20,102,2055,649,6,4,7,6,6,1,,,,,3,0,Completed,1.12,6,1.15,6.53,1.17,8,1.14,5.93
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Galan D.,Sandgren T.,153,47,379,1068,6,2,6,2,6,3,,,,,3,0,Completed,3.2,1.36,3.04,1.44,3.3,1.44,3.09,1.38
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Carreno Busta P.,Pella G.,18,37,2130,1310,6,3,6,2,6,1,,,,,3,0,Completed,1.28,3.75,1.34,3.61,1.36,4.09,1.29,3.65
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Djokovic N.,Berankis R.,1,66,11260,854,6,1,6,2,6,2,,,,,3,0,Completed,34,0.971,1.01,28,1.02,41,1.01,21.54
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Bedene A.,Milojevic N.,56,144,965,392,7,5,2,6,6,1,7,6,,,3,1,Completed,1.8,2,1.92,1.99,1.95,2.1,1.86,1.95
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Tsitsipas S.,Cuevas P.,6,60,5385,907,6,1,6,4,6,2,,,,,3,0,Completed,1.22,4.33,1.18,5.7,1.23,5.75,1.18,4.99
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Anderson K.,Lajovic D.,118,24,510,1785,6,2,6,4,4,6,3,6,6,3,3,2,Completed,2.62,1.5,2.46,1.62,2.75,1.62,2.56,1.51
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Bautista Agut R.,Balazs A.,10,87,2665,722,6,3,6,1,6,2,,,,,3,0,Completed,1.05,11,1.05,13.98,1.09,13.98,1.06,10.03
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Rublev A.,Davidovich Fokina A.,12,70,2614,829,7,5,6,1,3,6,6,1,,,3,1,Completed,1.22,4.33,1.2,5.17,1.22,5.25,1.2,4.68
+22,Paris,French Open,01/10/2020,Grand Slam,Outdoor,Clay,2nd Round,5,Berrettini M.,Harris L.,8,90,3030,701,6,4,4,6,6,2,6,3,,,3,1,Completed,1.1,7,1.08,9.89,1.11,10,1.08,8.29
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Thiem D.,Ruud C.,3,25,9125,1739,6,4,6,3,6,1,,,,,3,0,Completed,1.14,5.5,1.14,6.74,1.16,7,1.13,6.13
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Korda S.,Martinez P.,213,105,252,610,6,4,6,3,6,1,,,,,3,0,Completed,3,1.4,2.85,1.49,3.03,1.49,2.85,1.43
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Sonego L.,Fritz T.,46,30,1075,1625,7,6,6,3,7,6,,,,,3,0,Completed,2,1.8,2.01,1.89,2.04,1.94,1.98,1.83
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Gaston H.,Wawrinka S.,239,17,215,2185,2,6,6,3,6,3,4,6,6,0,3,2,Completed,11,1.05,13.26,1.05,15.25,1.06,11.69,1.04
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Sinner J.,Coria F.,75,99,788,671,6,3,7,5,7,5,,,,,3,0,Completed,1.14,5.5,1.18,5.63,1.2,6.25,1.16,5.41
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Nadal R.,Travaglia S.,2,74,9850,794,6,1,6,4,6,0,,,,,3,0,Completed,1.005,34,1.01,32.66,1.02,35,1.01,22.92
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Schwartzman D.,Gombos N.,14,106,2505,587,7,6,6,3,6,3,,,,,3,0,Completed,1.06,10,1.06,12.05,1.1,15,1.06,10.33
+22,Paris,French Open,02/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Zverev A.,Cecchinato M.,7,110,4650,551,6,1,7,5,6,3,,,,,3,0,Completed,1.44,2.75,1.47,2.89,1.47,3.1,1.42,2.9
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Altmaier D.,Berrettini M.,186,8,302,3030,6,2,7,6,6,4,,,,,3,0,Completed,5,1.16,5.52,1.19,5.55,1.2,5.08,1.17
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Rublev A.,Anderson K.,12,118,2614,510,6,3,6,2,6,3,,,,,3,0,Completed,1.2,4.5,1.25,4.48,1.25,4.95,1.21,4.42
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Carreno Busta P.,Bautista Agut R.,18,10,2130,2665,6,4,6,3,5,7,6,4,,,3,1,Completed,2.1,1.72,2.05,1.86,2.2,1.86,2.09,1.75
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Fucsovics M.,Monteiro T.,63,84,877,749,7,5,6,1,6,3,,,,,3,0,Completed,1.57,2.37,1.56,2.62,1.57,2.7,1.52,2.54
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Tsitsipas S.,Bedene A.,6,56,5385,965,6,1,6,2,3,1,,,,,2,0,Retired,1.11,6.5,1.11,8.22,1.12,8.55,1.1,7.22
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Dimitrov G.,Carballes Baena R.,20,101,2055,649,6,1,6,3,,,,,,,2,0,Retired,1.2,4.5,1.22,4.85,1.23,4.9,1.21,4.51
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Khachanov K.,Garin C.,16,19,2200,2090,6,2,3,6,6,4,6,2,,,3,1,Completed,2.1,1.72,2.71,1.53,2.71,1.8,2.15,1.71
+22,Paris,French Open,03/10/2020,Grand Slam,Outdoor,Clay,3rd Round,5,Djokovic N.,Galan D.,1,153,11260,379,6,0,6,3,6,2,,,,,3,0,Completed,1.005,34,1.01,28.85,1.02,35,1.01,22.41
+22,Paris,French Open,04/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Nadal R.,Korda S.,2,213,9850,252,6,1,6,1,6,2,,,,,3,0,Completed,1.01,26,1.01,34.13,1.02,35,1.01,22.01
+22,Paris,French Open,04/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Sinner J.,Zverev A.,75,7,788,4650,6,3,6,3,4,6,6,3,,,3,1,Completed,2.75,1.44,2.9,1.48,2.9,1.51,2.74,1.46
+22,Paris,French Open,04/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Thiem D.,Gaston H.,3,239,9125,215,6,4,6,4,5,7,3,6,6,3,3,2,Completed,1.03,15,1.03,20.83,1.05,25,1.02,16.67
+22,Paris,French Open,04/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Schwartzman D.,Sonego L.,14,46,2505,1075,6,1,6,3,6,4,,,,,3,0,Completed,1.16,5,1.19,5.58,1.23,5.95,1.16,5.26
+22,Paris,French Open,05/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Rublev A.,Fucsovics M.,12,63,2614,877,6,7,7,5,6,4,7,6,,,3,1,Completed,1.25,4,1.25,4.62,1.29,4.75,1.23,4.26
+22,Paris,French Open,05/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Tsitsipas S.,Dimitrov G.,6,20,5385,2055,6,3,7,6,6,2,,,,,3,0,Completed,1.3,3.5,1.33,3.71,1.36,3.8,1.31,3.49
+22,Paris,French Open,05/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Djokovic N.,Khachanov K.,1,16,11260,2200,6,4,6,3,6,3,,,,,3,0,Completed,1.04,13,1.04,18.11,1.05,20,1.03,13.89
+22,Paris,French Open,05/10/2020,Grand Slam,Outdoor,Clay,4th Round,5,Carreno Busta P.,Altmaier D.,18,186,2130,302,6,2,7,5,6,2,,,,,3,0,Completed,1.22,4.33,1.24,4.7,1.25,4.7,1.22,4.32
+22,Paris,French Open,06/10/2020,Grand Slam,Outdoor,Clay,Quarterfinals,5,Schwartzman D.,Thiem D.,14,3,2505,9125,7,6,5,7,6,7,7,6,6,2,3,2,Completed,2.75,1.44,3.41,1.38,3.41,1.46,3.01,1.4
+22,Paris,French Open,06/10/2020,Grand Slam,Outdoor,Clay,Quarterfinals,5,Nadal R.,Sinner J.,2,75,9850,788,7,6,6,4,6,1,,,,,3,0,Completed,1.08,8,1.08,10.52,1.12,13,1.08,8.31
+22,Paris,French Open,07/10/2020,Grand Slam,Outdoor,Clay,Quarterfinals,5,Tsitsipas S.,Rublev A.,6,12,5385,2614,7,5,6,2,6,3,,,,,3,0,Completed,1.53,2.5,1.52,2.77,1.6,2.77,1.52,2.57
+22,Paris,French Open,07/10/2020,Grand Slam,Outdoor,Clay,Quarterfinals,5,Djokovic N.,Carreno Busta P.,1,18,11260,2130,4,6,6,2,6,3,6,4,,,3,1,Completed,1.06,10,1.07,12.01,1.08,15,1.06,10.15
+22,Paris,French Open,09/10/2020,Grand Slam,Outdoor,Clay,Semifinals,5,Nadal R.,Schwartzman D.,2,14,9850,2505,6,3,6,3,7,6,,,,,3,0,Completed,1.14,5.5,1.15,6.7,1.2,6.7,1.16,5.51
+22,Paris,French Open,09/10/2020,Grand Slam,Outdoor,Clay,Semifinals,5,Djokovic N.,Tsitsipas S.,1,6,11260,5385,6,3,6,2,5,7,4,6,6,1,3,2,Completed,1.33,3.4,1.3,3.98,1.4,3.98,1.31,3.53
+22,Paris,French Open,11/10/2020,Grand Slam,Outdoor,Clay,The Final,5,Nadal R.,Djokovic N.,2,1,9850,11260,6,0,6,2,7,5,,,,,3,0,Completed,1.72,2.1,1.71,2.29,1.73,2.38,1.68,2.24
